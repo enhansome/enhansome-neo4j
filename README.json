@@ -1,0 +1,445 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "neo4j-python-driver",
+          "description": "Python driver for Neo4j binary protocol.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-21T14:39:43Z",
+            "owner": "neo4j",
+            "repo": "neo4j-python-driver",
+            "stars": 1049
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "neo4j-javascript-driver",
+          "description": "JavaScript driver for Neo4j binary protocol.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T12:59:09Z",
+            "owner": "neo4j",
+            "repo": "neo4j-javascript-driver",
+            "stars": 917
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "neo4j-java-driver",
+          "description": "Java driver for Neo4j binary protocol.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-11T14:23:43Z",
+            "owner": "neo4j",
+            "repo": "neo4j-java-driver",
+            "stars": 345
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "neo4j-spark-connector",
+          "description": "Neo4j-Spark-Connector based on Neo4j 3.0's Bolt protocol",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-08-11T15:12:28Z",
+            "owner": "neo4j",
+            "repo": "neo4j-spark-connector",
+            "stars": 324
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "neo4j-elixir-wrapper",
+          "description": "Neo4j driver for Elixir, wrapped around the Bolt protocol. Fork of the Boltex.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2023-11-18T19:47:32Z",
+            "owner": "florinpatrascu",
+            "repo": "bolt_sips",
+            "stars": 267
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "neo4j-dotnet-driver",
+          "description": ".Net driver for Neo4j (Bolt).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-24T16:14:49Z",
+            "owner": "neo4j",
+            "repo": "neo4j-dotnet-driver",
+            "stars": 247
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libneo4j-client",
+          "description": "libneo4j-client is a client library written in C for Neo4j. It is not intended as a complete driver, but rather as a foundation on which basic tools and drivers for various languages may be built. libneo4j-client takes care of all the detail of establishing a session with a Neo4j server, sending statements for evaluation, and retrieving results.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-05-08T02:47:43Z",
+            "owner": "cleishm",
+            "repo": "libneo4j-client",
+            "stars": 160
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "neo4j-bolt-php",
+          "description": "PHP driver for Neo4j binary protocol.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2021-11-30T16:51:29Z",
+            "owner": "graphaware",
+            "repo": "neo4j-bolt-php",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "neo4j-elixir-driver",
+          "description": "Elixir driver for the neo4j bolt protocol",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2019-02-02T18:26:56Z",
+            "owner": "mschae",
+            "repo": "boltex",
+            "stars": 29
+          }
+        }
+      ],
+      "title": "Bolt"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "REST API"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "spring-data-neo4j",
+          "description": "Provides support to increase developer productivity in Java when using the neo4j graph database.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T07:56:58Z",
+            "owner": "spring-projects",
+            "repo": "spring-data-neo4j",
+            "stars": 866
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "neo4j-ogm",
+          "description": "Object-Graph Mapping Library for Neo4j.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-10T10:36:47Z",
+            "owner": "neo4j",
+            "repo": "neo4j-ogm",
+            "stars": 360
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "neo4j-jdbc",
+          "description": "Neo4j JDBC driver.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-10T10:36:42Z",
+            "owner": "neo4j",
+            "repo": "neo4j-jdbc",
+            "stars": 153
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jcypher",
+          "description": "Java access to Neo4J graph databases at multiple levels of abstraction.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2020-10-13T08:33:45Z",
+            "owner": "Wolfgang-Schuetzelhofer",
+            "repo": "jcypher",
+            "stars": 85
+          }
+        }
+      ],
+      "title": "Java"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "neo4jrb",
+          "description": "An active model wrapper for the Neo4j Graph Database for Ruby.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-05-28T10:46:35Z",
+            "owner": "neo4jrb",
+            "repo": "activegraph",
+            "stars": 1406
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "neography",
+          "description": "A thin Ruby wrapper to the Neo4j Rest API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2017-02-27T17:39:36Z",
+            "owner": "maxdemarzi",
+            "repo": "neography",
+            "stars": 603
+          }
+        }
+      ],
+      "title": "Ruby"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "neomodel",
+          "description": "An Object Graph Mapper (OGM) for the neo4j graph database, built on the awesome py2neo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-16T13:03:03Z",
+            "owner": "neo4j-contrib",
+            "repo": "neomodel",
+            "stars": 1089
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "py2neo",
+          "description": "Py2neo is a comprehensive toolkit for working with Neo4j from within Python applications or from the command line.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-12-15T23:23:24Z",
+            "owner": "nigelsmall",
+            "repo": "py2neo",
+            "stars": 69
+          }
+        }
+      ],
+      "title": "Python"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "NeoEloquent",
+          "description": "A Neo4j ORM - Based on Eloquent.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-02-11T03:43:14Z",
+            "owner": "Vinelab",
+            "repo": "NeoEloquent",
+            "stars": 657
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "neo4jphp",
+          "description": "PHP wrapper of the Neo4j REST interface.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2017-09-25T14:56:34Z",
+            "owner": "jadell",
+            "repo": "neo4jphp",
+            "stars": 535
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "neo4j-php-client",
+          "description": "PHP Client for Neo4j leveraging the Http and Bolt protocols.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2021-11-30T16:50:29Z",
+            "owner": "graphaware",
+            "repo": "neo4j-php-client",
+            "stars": 285
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neo4j-PHP-OGM",
+          "description": "Doctrine style Object Graph Mapper for Neo4j",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2021-11-30T16:52:21Z",
+            "owner": "graphaware",
+            "repo": "neo4j-php-ogm",
+            "stars": 153
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spider",
+          "description": "A simple, flexible, and beautiful graph-data abstraction for php.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2018-07-30T23:58:22Z",
+            "owner": "spider",
+            "repo": "spider",
+            "stars": 21
+          }
+        }
+      ],
+      "title": "PHP"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "node-neo4j",
+          "description": "REST API client for Node.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CoffeeScript",
+            "last_commit": "2018-11-20T12:02:09Z",
+            "owner": "thingdom",
+            "repo": "node-neo4j",
+            "stars": 921
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neo4jClient",
+          "description": ".NET client binding.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-12-19T09:29:59Z",
+            "owner": "DotNet4Neo4j",
+            "repo": "Neo4jClient",
+            "stars": 428
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "neoism",
+          "description": "Client for Golang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2020-02-16T09:28:03Z",
+            "owner": "jmcvetta",
+            "repo": "neoism",
+            "stars": 388
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RNeo4j",
+          "description": "Driver for R.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "R",
+            "last_commit": "2019-02-19T15:23:19Z",
+            "owner": "nicolewhite",
+            "repo": "RNeo4j",
+            "stars": 238
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "neocons",
+          "description": "A feature rich idiomatic Clojure client for the REST API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2024-11-18T19:42:50Z",
+            "owner": "michaelklishin",
+            "repo": "neocons",
+            "stars": 207
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AnormCypher",
+          "description": "Scala library based on Anorm in the Play Framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2017-05-14T17:47:26Z",
+            "owner": "AnormCypher",
+            "repo": "AnormCypher",
+            "stars": 127
+          }
+        }
+      ],
+      "title": "Other"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T03:56:42.574Z",
+    "original_repository": "neueda/awesome-neo4j",
+    "original_repository_sha": "5d0900623269f17976f31e00fac2c92b4699e862",
+    "enhanced_repository": "enhansome/enhansome-neo4j",
+    "enhanced_repository_description": null,
+    "title": "Awesome Neo4j with stars"
+  }
+}
