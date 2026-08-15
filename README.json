@@ -25,7 +25,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T08:57:01Z",
+            "last_commit": "2026-08-14T14:00:10Z",
             "owner": "neo4j",
             "repo": "neo4j-javascript-driver",
             "stars": 917
@@ -42,7 +42,7 @@
             "last_commit": "2026-08-11T14:23:43Z",
             "owner": "neo4j",
             "repo": "neo4j-java-driver",
-            "stars": 345
+            "stars": 346
           }
         },
         {
@@ -53,7 +53,7 @@
           "repo_info": {
             "archived": false,
             "language": "Scala",
-            "last_commit": "2026-08-13T15:47:54Z",
+            "last_commit": "2026-08-14T08:44:20Z",
             "owner": "neo4j",
             "repo": "neo4j-spark-connector",
             "stars": 324
@@ -162,7 +162,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-10T10:36:47Z",
+            "last_commit": "2026-08-14T13:27:59Z",
             "owner": "neo4j",
             "repo": "neo4j-ogm",
             "stars": 360
@@ -210,7 +210,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-08-13T21:57:33Z",
+            "last_commit": "2026-08-14T17:59:31Z",
             "owner": "neo4jrb",
             "repo": "activegraph",
             "stars": 1406
@@ -435,7 +435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T02:07:58.292Z",
+    "last_updated": "2026-08-15T01:21:28.431Z",
     "original_repository": "neueda/awesome-neo4j",
     "original_repository_sha": "5d0900623269f17976f31e00fac2c92b4699e862",
     "enhanced_repository": "enhansome/enhansome-neo4j",
