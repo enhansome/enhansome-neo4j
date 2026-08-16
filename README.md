@@ -1,6 +1,6 @@
 # Awesome Neo4j with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 495,804 | 🐛 100 | 📅 2026-06-30
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 496,158 | 🐛 100 | 📅 2026-06-30
 [![Build Status](https://api.travis-ci.org/neueda/awesome-neo4j.svg?branch=master)](https://travis-ci.org/neueda/awesome-neo4j)
 
 A curated list of awesome [Neo4j](https://neo4j.com/) resources.\
@@ -45,7 +45,7 @@ Maintained by [Neueda R\&D](http://labs.neueda.com/).
   * [Miscellaneous](#miscellaneous)
 * [License](#license)
 
-Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go) ⭐ 524 | 🐛 12 | 🌐 Go | 📅 2026-08-14
+Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go) ⭐ 524 | 🐛 5 | 🌐 Go | 📅 2026-08-15
 
 # Basics
 
@@ -64,7 +64,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go) ⭐ 5
 
 ## Bolt
 
-* [neo4j-python-driver](https://github.com/neo4j/neo4j-python-driver) ⭐ 1,049 | 🐛 9 | 🌐 Python | 📅 2026-07-21 - Python driver for Neo4j binary protocol.
+* [neo4j-python-driver](https://github.com/neo4j/neo4j-python-driver) ⭐ 1,050 | 🐛 9 | 🌐 Python | 📅 2026-07-21 - Python driver for Neo4j binary protocol.
 * [neo4j-javascript-driver](https://github.com/neo4j/neo4j-javascript-driver) ⭐ 917 | 🐛 30 | 🌐 JavaScript | 📅 2026-08-14 - JavaScript driver for Neo4j binary protocol.
 * [neo4j-java-driver](https://github.com/neo4j/neo4j-java-driver) ⭐ 346 | 🐛 0 | 🌐 Java | 📅 2026-08-11 - Java driver for Neo4j binary protocol.
 * [neo4j-spark-connector](https://github.com/neo4j-contrib/neo4j-spark-connector) ⭐ 324 | 🐛 11 | 🌐 Scala | 📅 2026-08-14 - Neo4j-Spark-Connector based on Neo4j 3.0's Bolt protocol
@@ -85,7 +85,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go) ⭐ 5
 
 ### Ruby
 
-* [neo4jrb](https://github.com/neo4jrb/neo4j) ⭐ 1,406 | 🐛 242 | 🌐 Ruby | 📅 2026-08-14 - An active model wrapper for the Neo4j Graph Database for Ruby.
+* [neo4jrb](https://github.com/neo4jrb/neo4j) ⭐ 1,406 | 🐛 242 | 🌐 Ruby | 📅 2026-08-15 - An active model wrapper for the Neo4j Graph Database for Ruby.
 * [neography](https://github.com/maxdemarzi/neography) ⭐ 603 | 🐛 19 | 🌐 Ruby | 📅 2017-02-27 - A thin Ruby wrapper to the Neo4j Rest API.
 
 ### Python
@@ -185,7 +185,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go) ⭐ 5
 
 # Visualization
 
-* [Gephi](https://github.com/gephi/gephi) ⭐ 6,611 | 🐛 520 | 🌐 Java | 📅 2026-08-08 - Gephi is an award-winning open-source platform for visualizing and manipulating large graphs.
+* [Gephi](https://github.com/gephi/gephi) ⭐ 6,613 | 🐛 520 | 🌐 Java | 📅 2026-08-08 - Gephi is an award-winning open-source platform for visualizing and manipulating large graphs.
 * [neoclipse](https://github.com/neo4j-contrib/neoclipse) ⚠️ Archived - Neoclipse is a tool to view, edit and explore Neo4j databases.
 * [Linkurious](https://linkurio.us/) - Linkurious helps search and visualize your graph data through a simple web-based interface.
 * [yFiles for HTML](https://www.yworks.com/products/yfiles-for-html) - yFiles is a commercial generic graph visualization programming library that comes with [a demo to visualize your neo4j databases in JavaScript](http://live.yworks.com/demos/#neo4j). It's also the basis for the [free neo4j Graph Explorer app](https://www.yworks.com/neo4j-explorer/).
@@ -220,4 +220,4 @@ To the extent possible under law, [Neueda R\&D](https://github.com/Neueda) has w
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
