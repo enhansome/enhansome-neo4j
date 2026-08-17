@@ -210,7 +210,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-08-15T09:20:47Z",
+            "last_commit": "2026-08-16T21:58:26Z",
             "owner": "neo4jrb",
             "repo": "activegraph",
             "stars": 1406
@@ -295,7 +295,7 @@
             "last_commit": "2017-09-25T14:56:34Z",
             "owner": "jadell",
             "repo": "neo4jphp",
-            "stars": 535
+            "stars": 534
           }
         },
         {
@@ -435,7 +435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T01:26:44.268Z",
+    "last_updated": "2026-08-17T01:23:15.026Z",
     "original_repository": "neueda/awesome-neo4j",
     "original_repository_sha": "5d0900623269f17976f31e00fac2c92b4699e862",
     "enhanced_repository": "enhansome/enhansome-neo4j",
