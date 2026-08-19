@@ -1,6 +1,6 @@
 # Awesome Neo4j with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,444 | 🐛 102 | 📅 2026-08-18
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,666 | 🐛 102 | 📅 2026-08-18
 [![Build Status](https://api.travis-ci.org/neueda/awesome-neo4j.svg?branch=master)](https://travis-ci.org/neueda/awesome-neo4j)
 
 A curated list of awesome [Neo4j](https://neo4j.com/) resources.\
@@ -160,7 +160,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go) ⭐ 5
 
 # Stored Procedures
 
-* [Apoc : Awesome Procedures on Cypher](https://github.com/neo4j-contrib/neo4j-apoc-procedures) ⭐ 1,869 | 🐛 27 | 🌐 Java | 📅 2026-08-17 - Collection of useful procedures for Neo4j 3.x
+* [Apoc : Awesome Procedures on Cypher](https://github.com/neo4j-contrib/neo4j-apoc-procedures) ⭐ 1,869 | 🐛 28 | 🌐 Java | 📅 2026-08-19 - Collection of useful procedures for Neo4j 3.x
 * [Graphgen](https://github.com/graphaware/neo4j-graphgen-procedure) ⭐ 9 | 🐛 0 | 🌐 Java | 📅 2016-06-29 - Neo4j procedure for generating test data easily with Cypher
 
 # Development
