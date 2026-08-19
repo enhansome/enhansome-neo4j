@@ -11,7 +11,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-07-21T14:39:43Z",
+            "last_commit": "2026-08-18T16:42:39Z",
             "owner": "neo4j",
             "repo": "neo4j-python-driver",
             "stars": 1050
@@ -25,7 +25,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-17T15:38:11Z",
+            "last_commit": "2026-08-18T08:56:07Z",
             "owner": "neo4j",
             "repo": "neo4j-javascript-driver",
             "stars": 917
@@ -53,7 +53,7 @@
           "repo_info": {
             "archived": false,
             "language": "Scala",
-            "last_commit": "2026-08-17T08:45:34Z",
+            "last_commit": "2026-08-18T15:36:41Z",
             "owner": "neo4j",
             "repo": "neo4j-spark-connector",
             "stars": 324
@@ -281,7 +281,7 @@
             "last_commit": "2025-02-11T03:43:14Z",
             "owner": "Vinelab",
             "repo": "NeoEloquent",
-            "stars": 656
+            "stars": 657
           }
         },
         {
@@ -337,7 +337,7 @@
             "last_commit": "2018-07-30T23:58:22Z",
             "owner": "spider",
             "repo": "spider",
-            "stars": 21
+            "stars": 22
           }
         }
       ],
@@ -435,7 +435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T01:20:21.930Z",
+    "last_updated": "2026-08-19T01:22:09.368Z",
     "original_repository": "neueda/awesome-neo4j",
     "original_repository_sha": "5d0900623269f17976f31e00fac2c92b4699e862",
     "enhanced_repository": "enhansome/enhansome-neo4j",
