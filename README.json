@@ -44,7 +44,7 @@
                 "archived": false,
                 "id": 34007506,
                 "language": "Java",
-                "last_commit": "2026-08-17T20:43:00Z",
+                "last_commit": "2026-08-19T20:49:19Z",
                 "owner": "neo4j",
                 "repo": "neo4j-java-driver",
                 "stars": 347
@@ -673,7 +673,7 @@
             "last_commit": "2020-04-04T03:49:01Z",
             "owner": "kbastani",
             "repo": "graphify",
-            "stars": 446
+            "stars": 447
           }
         },
         {
@@ -1030,7 +1030,7 @@
             "archived": false,
             "id": 2624521,
             "language": "Java",
-            "last_commit": "2026-08-08T13:16:42Z",
+            "last_commit": "2026-08-19T15:03:13Z",
             "owner": "gephi",
             "repo": "gephi",
             "stars": 6617
@@ -1092,7 +1092,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:41:56.586Z",
+    "last_updated": "2026-08-20T01:21:43.689Z",
     "original_repository": "neueda/awesome-neo4j",
     "original_repository_id": 43137821,
     "original_repository_sha": "5d0900623269f17976f31e00fac2c92b4699e862",
