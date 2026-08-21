@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 39573021,
                 "language": "JavaScript",
-                "last_commit": "2026-08-18T08:56:07Z",
+                "last_commit": "2026-08-20T15:16:33Z",
                 "owner": "neo4j",
                 "repo": "neo4j-javascript-driver",
                 "stars": 917
@@ -59,7 +59,7 @@
                 "archived": false,
                 "id": 53063706,
                 "language": "Scala",
-                "last_commit": "2026-08-18T15:36:41Z",
+                "last_commit": "2026-08-20T13:41:25Z",
                 "owner": "neo4j",
                 "repo": "neo4j-spark-connector",
                 "stars": 324
@@ -158,7 +158,7 @@
                     "archived": false,
                     "id": 2470730,
                     "language": "Java",
-                    "last_commit": "2026-08-13T07:21:40Z",
+                    "last_commit": "2026-08-20T14:06:29Z",
                     "owner": "spring-projects",
                     "repo": "spring-data-neo4j",
                     "stars": 866
@@ -173,7 +173,7 @@
                     "archived": false,
                     "id": 24224646,
                     "language": "Java",
-                    "last_commit": "2026-08-17T04:03:01Z",
+                    "last_commit": "2026-08-20T15:49:51Z",
                     "owner": "neo4j",
                     "repo": "neo4j-ogm",
                     "stars": 360
@@ -265,7 +265,7 @@
                     "last_commit": "2026-07-16T13:03:03Z",
                     "owner": "neo4j-contrib",
                     "repo": "neomodel",
-                    "stars": 1089
+                    "stars": 1087
                   }
                 },
                 {
@@ -1092,7 +1092,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T01:21:43.689Z",
+    "last_updated": "2026-08-21T01:25:38.726Z",
     "original_repository": "neueda/awesome-neo4j",
     "original_repository_id": 43137821,
     "original_repository_sha": "5d0900623269f17976f31e00fac2c92b4699e862",
