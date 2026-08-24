@@ -1030,10 +1030,10 @@
             "archived": false,
             "id": 2624521,
             "language": "Java",
-            "last_commit": "2026-08-22T17:38:21Z",
+            "last_commit": "2026-08-23T14:31:27Z",
             "owner": "gephi",
             "repo": "gephi",
-            "stars": 6619
+            "stars": 6620
           }
         },
         {
@@ -1092,7 +1092,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T01:28:06.639Z",
+    "last_updated": "2026-08-24T01:25:48.672Z",
     "original_repository": "neueda/awesome-neo4j",
     "original_repository_id": 43137821,
     "original_repository_sha": "5d0900623269f17976f31e00fac2c92b4699e862",
