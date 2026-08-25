@@ -44,7 +44,7 @@
                 "archived": false,
                 "id": 34007506,
                 "language": "Java",
-                "last_commit": "2026-08-19T20:49:19Z",
+                "last_commit": "2026-08-24T20:47:24Z",
                 "owner": "neo4j",
                 "repo": "neo4j-java-driver",
                 "stars": 347
@@ -59,7 +59,7 @@
                 "archived": false,
                 "id": 53063706,
                 "language": "Scala",
-                "last_commit": "2026-08-24T13:04:38Z",
+                "last_commit": "2026-08-24T14:49:10Z",
                 "owner": "neo4j",
                 "repo": "neo4j-spark-connector",
                 "stars": 324
@@ -826,7 +826,7 @@
             "archived": false,
             "id": 52509220,
             "language": "Java",
-            "last_commit": "2026-08-19T09:04:57Z",
+            "last_commit": "2026-08-24T15:12:38Z",
             "owner": "neo4j-contrib",
             "repo": "neo4j-apoc-procedures",
             "stars": 1869
@@ -1030,7 +1030,7 @@
             "archived": false,
             "id": 2624521,
             "language": "Java",
-            "last_commit": "2026-08-24T08:18:43Z",
+            "last_commit": "2026-08-24T21:31:42Z",
             "owner": "gephi",
             "repo": "gephi",
             "stars": 6620
@@ -1114,7 +1114,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:21:25.001Z",
+    "last_updated": "2026-08-25T01:22:31.744Z",
     "original_repository": "neueda/awesome-neo4j",
     "original_repository_id": 43137821,
     "original_repository_sha": "5d0900623269f17976f31e00fac2c92b4699e862",
