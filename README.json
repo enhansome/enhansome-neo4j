@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 39573021,
                 "language": "JavaScript",
-                "last_commit": "2026-08-20T15:16:33Z",
+                "last_commit": "2026-08-25T14:36:28Z",
                 "owner": "neo4j",
                 "repo": "neo4j-javascript-driver",
                 "stars": 917
@@ -59,7 +59,7 @@
                 "archived": false,
                 "id": 53063706,
                 "language": "Scala",
-                "last_commit": "2026-08-24T14:49:10Z",
+                "last_commit": "2026-08-25T17:01:38Z",
                 "owner": "neo4j",
                 "repo": "neo4j-spark-connector",
                 "stars": 324
@@ -161,7 +161,7 @@
                     "last_commit": "2026-08-21T09:05:08Z",
                     "owner": "spring-projects",
                     "repo": "spring-data-neo4j",
-                    "stars": 865
+                    "stars": 866
                   }
                 },
                 {
@@ -188,10 +188,10 @@
                     "archived": false,
                     "id": 59779262,
                     "language": "Java",
-                    "last_commit": "2026-08-24T09:59:45Z",
+                    "last_commit": "2026-08-25T13:11:39Z",
                     "owner": "neo4j",
                     "repo": "neo4j-jdbc",
-                    "stars": 153
+                    "stars": 154
                   }
                 },
                 {
@@ -1030,10 +1030,10 @@
             "archived": false,
             "id": 2624521,
             "language": "Java",
-            "last_commit": "2026-08-24T21:31:42Z",
+            "last_commit": "2026-08-25T15:22:21Z",
             "owner": "gephi",
             "repo": "gephi",
-            "stars": 6620
+            "stars": 6621
           }
         },
         {
@@ -1114,7 +1114,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:15:02.637Z",
+    "last_updated": "2026-08-26T01:25:51.248Z",
     "original_repository": "neueda/awesome-neo4j",
     "original_repository_id": 43137821,
     "original_repository_sha": "5d0900623269f17976f31e00fac2c92b4699e862",
