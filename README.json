@@ -59,7 +59,7 @@
                 "archived": false,
                 "id": 53063706,
                 "language": "Scala",
-                "last_commit": "2026-08-27T08:03:26Z",
+                "last_commit": "2026-08-27T10:27:25Z",
                 "owner": "neo4j",
                 "repo": "neo4j-spark-connector",
                 "stars": 324
@@ -161,7 +161,7 @@
                     "last_commit": "2026-08-21T09:05:08Z",
                     "owner": "spring-projects",
                     "repo": "spring-data-neo4j",
-                    "stars": 866
+                    "stars": 867
                   }
                 },
                 {
@@ -487,7 +487,7 @@
             "archived": false,
             "id": 34655771,
             "language": "Shell",
-            "last_commit": "2026-08-26T08:42:02Z",
+            "last_commit": "2026-08-27T10:36:13Z",
             "owner": "neo4j",
             "repo": "docker-neo4j",
             "stars": 381
@@ -1030,7 +1030,7 @@
             "archived": false,
             "id": 2624521,
             "language": "Java",
-            "last_commit": "2026-08-27T08:07:39Z",
+            "last_commit": "2026-08-27T11:46:59Z",
             "owner": "gephi",
             "repo": "gephi",
             "stars": 6623
@@ -1114,9 +1114,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T08:12:11.561Z",
-    "original_repository": "neueda/awesome-neo4j",
-    "original_repository_id": 43137821,
+    "last_updated": "2026-08-27T11:52:57.105Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 43137821,
+      "language": null,
+      "last_commit": "2020-12-09T06:58:51Z",
+      "owner": "neueda",
+      "repo": "awesome-neo4j",
+      "stars": 565
+    },
     "original_repository_sha": "5d0900623269f17976f31e00fac2c92b4699e862",
     "enhanced_repository": "enhansome/enhansome-neo4j",
     "enhanced_repository_description": null,
