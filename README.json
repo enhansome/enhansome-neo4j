@@ -14,11 +14,12 @@
                 "archived": false,
                 "id": 35100117,
                 "language": "Python",
-                "last_commit": "2026-08-27T06:35:44Z",
+                "last_commit": "2026-08-28T10:06:45Z",
                 "owner": "neo4j",
                 "repo": "neo4j-python-driver",
                 "stars": 1050
-              }
+              },
+              "first_seen": "2026-08-28T10:15:12.794Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "neo4j",
                 "repo": "neo4j-javascript-driver",
                 "stars": 917
-              }
+              },
+              "first_seen": "2026-08-28T10:15:12.794Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "neo4j",
                 "repo": "neo4j-java-driver",
                 "stars": 347
-              }
+              },
+              "first_seen": "2026-08-28T10:15:12.794Z"
             },
             {
               "node_type": "item",
@@ -59,11 +62,12 @@
                 "archived": false,
                 "id": 53063706,
                 "language": "Scala",
-                "last_commit": "2026-08-27T10:27:25Z",
+                "last_commit": "2026-08-28T08:04:58Z",
                 "owner": "neo4j",
                 "repo": "neo4j-spark-connector",
                 "stars": 324
-              }
+              },
+              "first_seen": "2026-08-28T10:15:12.794Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "florinpatrascu",
                 "repo": "bolt_sips",
                 "stars": 267
-              }
+              },
+              "first_seen": "2026-08-28T10:15:12.794Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "neo4j",
                 "repo": "neo4j-dotnet-driver",
                 "stars": 247
-              }
+              },
+              "first_seen": "2026-08-28T10:15:12.794Z"
             },
             {
               "node_type": "item",
@@ -108,7 +114,8 @@
                 "owner": "cleishm",
                 "repo": "libneo4j-client",
                 "stars": 160
-              }
+              },
+              "first_seen": "2026-08-28T10:15:12.794Z"
             },
             {
               "node_type": "item",
@@ -123,7 +130,8 @@
                 "owner": "graphaware",
                 "repo": "neo4j-bolt-php",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-28T10:15:12.794Z"
             },
             {
               "node_type": "item",
@@ -138,7 +146,8 @@
                 "owner": "mschae",
                 "repo": "boltex",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T10:15:12.794Z"
             }
           ],
           "description": null,
@@ -162,7 +171,8 @@
                     "owner": "spring-projects",
                     "repo": "spring-data-neo4j",
                     "stars": 867
-                  }
+                  },
+                  "first_seen": "2026-08-28T10:15:12.794Z"
                 },
                 {
                   "node_type": "item",
@@ -177,7 +187,8 @@
                     "owner": "neo4j",
                     "repo": "neo4j-ogm",
                     "stars": 360
-                  }
+                  },
+                  "first_seen": "2026-08-28T10:15:12.794Z"
                 },
                 {
                   "node_type": "item",
@@ -192,7 +203,8 @@
                     "owner": "neo4j",
                     "repo": "neo4j-jdbc",
                     "stars": 154
-                  }
+                  },
+                  "first_seen": "2026-08-28T10:15:12.794Z"
                 },
                 {
                   "node_type": "item",
@@ -207,7 +219,8 @@
                     "owner": "Wolfgang-Schuetzelhofer",
                     "repo": "jcypher",
                     "stars": 85
-                  }
+                  },
+                  "first_seen": "2026-08-28T10:15:12.794Z"
                 }
               ],
               "description": null,
@@ -229,7 +242,8 @@
                     "owner": "neo4jrb",
                     "repo": "activegraph",
                     "stars": 1406
-                  }
+                  },
+                  "first_seen": "2026-08-28T10:15:12.794Z"
                 },
                 {
                   "node_type": "item",
@@ -244,7 +258,8 @@
                     "owner": "maxdemarzi",
                     "repo": "neography",
                     "stars": 603
-                  }
+                  },
+                  "first_seen": "2026-08-28T10:15:12.794Z"
                 }
               ],
               "description": null,
@@ -266,7 +281,8 @@
                     "owner": "neo4j-contrib",
                     "repo": "neomodel",
                     "stars": 1088
-                  }
+                  },
+                  "first_seen": "2026-08-28T10:15:12.794Z"
                 },
                 {
                   "node_type": "item",
@@ -281,7 +297,8 @@
                     "owner": "nigelsmall",
                     "repo": "py2neo",
                     "stars": 69
-                  }
+                  },
+                  "first_seen": "2026-08-28T10:15:12.794Z"
                 }
               ],
               "description": null,
@@ -303,7 +320,8 @@
                     "owner": "Vinelab",
                     "repo": "NeoEloquent",
                     "stars": 657
-                  }
+                  },
+                  "first_seen": "2026-08-28T10:15:12.794Z"
                 },
                 {
                   "node_type": "item",
@@ -318,7 +336,8 @@
                     "owner": "jadell",
                     "repo": "neo4jphp",
                     "stars": 533
-                  }
+                  },
+                  "first_seen": "2026-08-28T10:15:12.794Z"
                 },
                 {
                   "node_type": "item",
@@ -333,7 +352,8 @@
                     "owner": "graphaware",
                     "repo": "neo4j-php-client",
                     "stars": 285
-                  }
+                  },
+                  "first_seen": "2026-08-28T10:15:12.794Z"
                 },
                 {
                   "node_type": "item",
@@ -348,7 +368,8 @@
                     "owner": "graphaware",
                     "repo": "neo4j-php-ogm",
                     "stars": 153
-                  }
+                  },
+                  "first_seen": "2026-08-28T10:15:12.794Z"
                 },
                 {
                   "node_type": "item",
@@ -363,7 +384,8 @@
                     "owner": "spider",
                     "repo": "spider",
                     "stars": 22
-                  }
+                  },
+                  "first_seen": "2026-08-28T10:15:12.794Z"
                 }
               ],
               "description": null,
@@ -385,7 +407,8 @@
                     "owner": "thingdom",
                     "repo": "node-neo4j",
                     "stars": 921
-                  }
+                  },
+                  "first_seen": "2026-08-28T10:15:12.794Z"
                 },
                 {
                   "node_type": "item",
@@ -400,7 +423,8 @@
                     "owner": "DotNet4Neo4j",
                     "repo": "Neo4jClient",
                     "stars": 428
-                  }
+                  },
+                  "first_seen": "2026-08-28T10:15:12.794Z"
                 },
                 {
                   "node_type": "item",
@@ -415,7 +439,8 @@
                     "owner": "jmcvetta",
                     "repo": "neoism",
                     "stars": 388
-                  }
+                  },
+                  "first_seen": "2026-08-28T10:15:12.794Z"
                 },
                 {
                   "node_type": "item",
@@ -430,7 +455,8 @@
                     "owner": "nicolewhite",
                     "repo": "RNeo4j",
                     "stars": 238
-                  }
+                  },
+                  "first_seen": "2026-08-28T10:15:12.794Z"
                 },
                 {
                   "node_type": "item",
@@ -445,7 +471,8 @@
                     "owner": "michaelklishin",
                     "repo": "neocons",
                     "stars": 207
-                  }
+                  },
+                  "first_seen": "2026-08-28T10:15:12.794Z"
                 },
                 {
                   "node_type": "item",
@@ -460,7 +487,8 @@
                     "owner": "AnormCypher",
                     "repo": "AnormCypher",
                     "stars": 127
-                  }
+                  },
+                  "first_seen": "2026-08-28T10:15:12.794Z"
                 }
               ],
               "description": null,
@@ -487,11 +515,12 @@
             "archived": false,
             "id": 34655771,
             "language": "Shell",
-            "last_commit": "2026-08-27T10:36:13Z",
+            "last_commit": "2026-08-27T12:40:47Z",
             "owner": "neo4j",
             "repo": "docker-neo4j",
             "stars": 381
-          }
+          },
+          "first_seen": "2026-08-28T10:15:12.794Z"
         },
         {
           "node_type": "item",
@@ -506,7 +535,8 @@
             "owner": "ekino",
             "repo": "docker-neo4j-cluster",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T10:15:12.794Z"
         }
       ],
       "title": "Docker"
@@ -527,7 +557,8 @@
             "owner": "graphaware",
             "repo": "neo4j-to-elasticsearch",
             "stars": 266
-          }
+          },
+          "first_seen": "2026-08-28T10:15:12.794Z"
         },
         {
           "node_type": "item",
@@ -542,7 +573,8 @@
             "owner": "neo4j-contrib",
             "repo": "neo4j-elasticsearch",
             "stars": 214
-          }
+          },
+          "first_seen": "2026-08-28T10:15:12.794Z"
         },
         {
           "node_type": "item",
@@ -557,7 +589,8 @@
             "owner": "graphaware",
             "repo": "graph-aided-search",
             "stars": 158
-          }
+          },
+          "first_seen": "2026-08-28T10:15:12.794Z"
         }
       ],
       "title": "Full-text search"
@@ -578,7 +611,8 @@
             "owner": "neo4j-contrib",
             "repo": "neo4j_doc_manager",
             "stars": 96
-          }
+          },
+          "first_seen": "2026-08-28T10:15:12.794Z"
         },
         {
           "node_type": "item",
@@ -593,7 +627,8 @@
             "owner": "jexp",
             "repo": "neo4j-rdbms-import",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-28T10:15:12.794Z"
         },
         {
           "node_type": "item",
@@ -608,7 +643,8 @@
             "owner": "graphaware",
             "repo": "neo4j-importer",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T10:15:12.794Z"
         },
         {
           "node_type": "item",
@@ -623,7 +659,8 @@
             "owner": "sarmbruster",
             "repo": "neo4j-csv-firehose",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T10:15:12.794Z"
         },
         {
           "node_type": "item",
@@ -638,7 +675,8 @@
             "owner": "wadael",
             "repo": "neoloadcsvskelgen",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T10:15:12.794Z"
         }
       ],
       "title": "Import"
@@ -659,7 +697,8 @@
             "owner": "neo4j-contrib",
             "repo": "spatial",
             "stars": 826
-          }
+          },
+          "first_seen": "2026-08-28T10:15:12.794Z"
         },
         {
           "node_type": "item",
@@ -674,7 +713,8 @@
             "owner": "kbastani",
             "repo": "graphify",
             "stars": 447
-          }
+          },
+          "first_seen": "2026-08-28T10:15:12.794Z"
         },
         {
           "node_type": "item",
@@ -689,7 +729,8 @@
             "owner": "graphaware",
             "repo": "neo4j-reco",
             "stars": 387
-          }
+          },
+          "first_seen": "2026-08-28T10:15:12.794Z"
         },
         {
           "node_type": "item",
@@ -704,7 +745,8 @@
             "owner": "graphaware",
             "repo": "neo4j-timetree",
             "stars": 210
-          }
+          },
+          "first_seen": "2026-08-28T10:15:12.794Z"
         },
         {
           "node_type": "item",
@@ -719,7 +761,8 @@
             "owner": "graphaware",
             "repo": "neo4j-uuid",
             "stars": 106
-          }
+          },
+          "first_seen": "2026-08-28T10:15:12.794Z"
         },
         {
           "node_type": "item",
@@ -734,7 +777,8 @@
             "owner": "graphaware",
             "repo": "neo4j-algorithms",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T10:15:12.794Z"
         },
         {
           "node_type": "item",
@@ -749,7 +793,8 @@
             "owner": "graphaware",
             "repo": "neo4j-expire",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T10:15:12.794Z"
         },
         {
           "node_type": "item",
@@ -764,7 +809,8 @@
             "owner": "graphaware",
             "repo": "neo4j-changefeed",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T10:15:12.794Z"
         },
         {
           "node_type": "item",
@@ -779,7 +825,8 @@
             "owner": "graphaware",
             "repo": "neo4j-resttest",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T10:15:12.794Z"
         },
         {
           "node_type": "item",
@@ -794,7 +841,8 @@
             "owner": "graphaware",
             "repo": "neo4j-warmup",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T10:15:12.794Z"
         },
         {
           "node_type": "item",
@@ -809,7 +857,8 @@
             "owner": "jexp",
             "repo": "neo4j-tx-participation",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T10:15:12.794Z"
         }
       ],
       "title": "Extensions"
@@ -830,7 +879,8 @@
             "owner": "neo4j-contrib",
             "repo": "neo4j-apoc-procedures",
             "stars": 1869
-          }
+          },
+          "first_seen": "2026-08-28T10:15:12.794Z"
         },
         {
           "node_type": "item",
@@ -845,7 +895,8 @@
             "owner": "graphaware",
             "repo": "neo4j-graphgen-procedure",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T10:15:12.794Z"
         }
       ],
       "title": "Stored Procedures"
@@ -866,7 +917,8 @@
             "owner": "tinkerpop",
             "repo": "blueprints",
             "stars": 1359
-          }
+          },
+          "first_seen": "2026-08-28T10:15:12.794Z"
         },
         {
           "node_type": "item",
@@ -881,7 +933,8 @@
             "owner": "structr",
             "repo": "structr",
             "stars": 828
-          }
+          },
+          "first_seen": "2026-08-28T10:15:12.794Z"
         },
         {
           "node_type": "item",
@@ -896,7 +949,8 @@
             "owner": "graphaware",
             "repo": "neo4j-framework",
             "stars": 249
-          }
+          },
+          "first_seen": "2026-08-28T10:15:12.794Z"
         },
         {
           "node_type": "item",
@@ -910,8 +964,9 @@
             "last_commit": "2026-08-26T08:35:49Z",
             "owner": "neo4j",
             "repo": "cypher-dsl",
-            "stars": 226
-          }
+            "stars": 227
+          },
+          "first_seen": "2026-08-28T10:15:12.794Z"
         },
         {
           "node_type": "item",
@@ -926,7 +981,8 @@
             "owner": "graphaware",
             "repo": "reco4php",
             "stars": 129
-          }
+          },
+          "first_seen": "2026-08-28T10:15:12.794Z"
         },
         {
           "node_type": "item",
@@ -941,7 +997,8 @@
             "owner": "liquibase",
             "repo": "liquigraph",
             "stars": 123
-          }
+          },
+          "first_seen": "2026-08-28T10:15:12.794Z"
         }
       ],
       "title": "Development"
@@ -962,7 +1019,8 @@
             "owner": "neueda",
             "repo": "jetbrains-plugin-graph-database-support",
             "stars": 227
-          }
+          },
+          "first_seen": "2026-08-28T10:15:12.794Z"
         },
         {
           "node_type": "item",
@@ -977,7 +1035,8 @@
             "owner": "neo4j-contrib",
             "repo": "cypher-vim-syntax",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T10:15:12.794Z"
         }
       ],
       "title": "Editors"
@@ -998,7 +1057,8 @@
             "owner": "jexp",
             "repo": "neo4j-shell-tools",
             "stars": 290
-          }
+          },
+          "first_seen": "2026-08-28T10:15:12.794Z"
         },
         {
           "node_type": "item",
@@ -1013,7 +1073,8 @@
             "owner": "nicolewhite",
             "repo": "cycli",
             "stars": 271
-          }
+          },
+          "first_seen": "2026-08-28T10:15:12.794Z"
         }
       ],
       "title": "Shell"
@@ -1030,11 +1091,12 @@
             "archived": false,
             "id": 2624521,
             "language": "Java",
-            "last_commit": "2026-08-27T11:46:59Z",
+            "last_commit": "2026-08-28T07:55:59Z",
             "owner": "gephi",
             "repo": "gephi",
-            "stars": 6623
-          }
+            "stars": 6625
+          },
+          "first_seen": "2026-08-28T10:15:12.794Z"
         },
         {
           "node_type": "item",
@@ -1049,7 +1111,8 @@
             "owner": "neo4j-contrib",
             "repo": "neoclipse",
             "stars": 221
-          }
+          },
+          "first_seen": "2026-08-28T10:15:12.794Z"
         }
       ],
       "title": "Visualization"
@@ -1070,7 +1133,8 @@
             "owner": "jexp",
             "repo": "store-utils",
             "stars": 93
-          }
+          },
+          "first_seen": "2026-08-28T10:15:12.794Z"
         },
         {
           "node_type": "item",
@@ -1085,7 +1149,8 @@
             "owner": "cohesivestack",
             "repo": "ineo",
             "stars": 75
-          }
+          },
+          "first_seen": "2026-08-28T10:15:12.794Z"
         },
         {
           "children": [
@@ -1102,7 +1167,8 @@
                 "owner": "jimwebber",
                 "repo": "neo4j-tutorial",
                 "stars": 315
-              }
+              },
+              "first_seen": "2026-08-28T10:15:12.794Z"
             }
           ],
           "description": null,
@@ -1114,7 +1180,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:52:57.105Z",
+    "last_updated": "2026-08-28T10:15:12.794Z",
     "original_repository_info": {
       "archived": false,
       "id": 43137821,
