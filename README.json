@@ -12,12 +12,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Neo4j Bolt driver for Python",
+                "homepage": "https://neo4j.com/docs/api/python-driver/current/",
                 "id": 35100117,
                 "language": "Python",
-                "last_commit": "2026-08-28T10:06:45Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T10:27:07Z",
+                "open_issues": 10,
                 "owner": "neo4j",
                 "repo": "neo4j-python-driver",
-                "stars": 1050
+                "stars": 1050,
+                "topics": [
+                  "binary-protocol",
+                  "cypher",
+                  "database-driver",
+                  "driver",
+                  "graph-database",
+                  "neo4j",
+                  "neo4j-driver",
+                  "protocol",
+                  "python",
+                  "python3",
+                  "query-language"
+                ]
               },
               "first_seen": "2026-08-28T10:15:12.794Z"
             },
@@ -28,12 +45,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Neo4j Bolt driver for JavaScript",
+                "homepage": "https://neo4j.com/docs/javascript-manual/current/",
                 "id": 39573021,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-25T14:36:28Z",
+                "open_issues": 31,
                 "owner": "neo4j",
                 "repo": "neo4j-javascript-driver",
-                "stars": 917
+                "stars": 917,
+                "topics": [
+                  "bolt",
+                  "database",
+                  "driver",
+                  "javascript",
+                  "neo4j",
+                  "neo4j-driver"
+                ]
               },
               "first_seen": "2026-08-28T10:15:12.794Z"
             },
@@ -44,12 +73,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Neo4j Bolt driver for Java",
+                "homepage": null,
                 "id": 34007506,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-24T20:47:24Z",
+                "open_issues": 1,
                 "owner": "neo4j",
                 "repo": "neo4j-java-driver",
-                "stars": 347
+                "stars": 347,
+                "topics": [
+                  "bolt",
+                  "database",
+                  "driver",
+                  "java",
+                  "neo4j",
+                  "neo4j-driver"
+                ]
               },
               "first_seen": "2026-08-28T10:15:12.794Z"
             },
@@ -60,12 +101,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Neo4j Connector for Apache Spark, which provides bi-directional read/write access to Neo4j from Spark, using the Spark DataSource APIs",
+                "homepage": "https://neo4j.com/docs/spark/current/",
                 "id": 53063706,
                 "language": "Scala",
-                "last_commit": "2026-08-28T08:04:58Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:45:40Z",
+                "open_issues": 9,
                 "owner": "neo4j",
                 "repo": "neo4j-spark-connector",
-                "stars": 324
+                "stars": 324,
+                "topics": [
+                  "bolt",
+                  "cypher",
+                  "hacktoberfest",
+                  "neo4j-connector",
+                  "neo4j-driver",
+                  "spark"
+                ]
               },
               "first_seen": "2026-08-28T10:15:12.794Z"
             },
@@ -76,12 +129,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Neo4j driver for Elixir",
+                "homepage": null,
                 "id": 66721200,
                 "language": "Elixir",
+                "license": "Apache-2.0",
                 "last_commit": "2023-11-18T19:47:32Z",
+                "open_issues": 4,
                 "owner": "florinpatrascu",
                 "repo": "bolt_sips",
-                "stars": 267
+                "stars": 267,
+                "topics": [
+                  "bolt",
+                  "driver",
+                  "elixir",
+                  "graph-database",
+                  "graphdb",
+                  "neo4j",
+                  "neo4j-driver"
+                ]
               },
               "first_seen": "2026-08-28T10:15:12.794Z"
             },
@@ -92,12 +158,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Neo4j Bolt driver for .NET",
+                "homepage": null,
                 "id": 49424996,
                 "language": "C#",
-                "last_commit": "2026-08-26T07:50:00Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T10:42:59Z",
+                "open_issues": 5,
                 "owner": "neo4j",
                 "repo": "neo4j-dotnet-driver",
-                "stars": 247
+                "stars": 247,
+                "topics": [
+                  "binary-protocol",
+                  "csharp",
+                  "cypher",
+                  "cypher-query",
+                  "database-driver",
+                  "dotnet",
+                  "driver",
+                  "graph-database",
+                  "graph-database-neo4j",
+                  "neo4j",
+                  "protocol"
+                ]
               },
               "first_seen": "2026-08-28T10:15:12.794Z"
             },
@@ -108,12 +191,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "neo4j-client -- Neo4j Command Line Interface (CLI)",
+                "homepage": "https://neo4j-client.net",
                 "id": 45140919,
                 "language": "C",
+                "license": "Apache-2.0",
                 "last_commit": "2023-05-08T02:47:43Z",
+                "open_issues": 20,
                 "owner": "cleishm",
                 "repo": "libneo4j-client",
-                "stars": 160
+                "stars": 160,
+                "topics": [
+                  "bolt",
+                  "cli",
+                  "driver",
+                  "graph",
+                  "graph-database",
+                  "neo4j"
+                ]
               },
               "first_seen": "2026-08-28T10:15:12.794Z"
             },
@@ -124,12 +219,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "PHP Driver for Neo4j's Binary Protocol : Bolt",
+                "homepage": null,
                 "id": 41616370,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2021-11-30T16:51:29Z",
+                "open_issues": 12,
                 "owner": "graphaware",
                 "repo": "neo4j-bolt-php",
-                "stars": 42
+                "stars": 42,
+                "topics": []
               },
               "first_seen": "2026-08-28T10:15:12.794Z"
             },
@@ -140,12 +240,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Elixir driver for the neo4j bolt protocol",
+                "homepage": null,
                 "id": 63429750,
                 "language": "Elixir",
+                "license": "NOASSERTION",
                 "last_commit": "2019-02-02T18:26:56Z",
+                "open_issues": 4,
                 "owner": "mschae",
                 "repo": "boltex",
-                "stars": 29
+                "stars": 29,
+                "topics": [
+                  "bolt",
+                  "elixir",
+                  "graph-database",
+                  "neo4j"
+                ]
               },
               "first_seen": "2026-08-28T10:15:12.794Z"
             }
@@ -165,12 +275,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Provide support to increase developer productivity in Java when using Neo4j. Uses familiar Spring concepts such as a template classes for core API usage and lightweight repository style data access.",
+                    "homepage": "http://spring.io/projects/spring-data-neo4j",
                     "id": 2470730,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-21T09:05:08Z",
+                    "open_issues": 35,
                     "owner": "spring-projects",
                     "repo": "spring-data-neo4j",
-                    "stars": 867
+                    "stars": 867,
+                    "topics": [
+                      "ddd",
+                      "framework",
+                      "java",
+                      "neo4j",
+                      "spring",
+                      "spring-data"
+                    ]
                   },
                   "first_seen": "2026-08-28T10:15:12.794Z"
                 },
@@ -181,12 +303,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Java Object-Graph Mapping Library for Neo4j",
+                    "homepage": "https://neo4j.com/docs/ogm-manual/",
                     "id": 24224646,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-24T04:03:05Z",
+                    "open_issues": 9,
                     "owner": "neo4j",
                     "repo": "neo4j-ogm",
-                    "stars": 360
+                    "stars": 360,
+                    "topics": [
+                      "database",
+                      "graph-databases",
+                      "java",
+                      "neo4j",
+                      "neo4j-ogm",
+                      "nosql-databases",
+                      "ogm"
+                    ]
                   },
                   "first_seen": "2026-08-28T10:15:12.794Z"
                 },
@@ -197,12 +332,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official Neo4j JDBC Driver",
+                    "homepage": "http://neo4j.github.io/neo4j-jdbc/",
                     "id": 59779262,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-25T13:11:39Z",
+                    "open_issues": 18,
                     "owner": "neo4j",
                     "repo": "neo4j-jdbc",
-                    "stars": 154
+                    "stars": 154,
+                    "topics": [
+                      "business-intelligence",
+                      "driver",
+                      "etl",
+                      "integration",
+                      "java",
+                      "jdbc",
+                      "neo4j",
+                      "neo4j-driver",
+                      "sql2cypher"
+                    ]
                   },
                   "first_seen": "2026-08-28T10:15:12.794Z"
                 },
@@ -213,12 +363,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Java access to Neo4J graph databases at multiple levels of abstraction",
+                    "homepage": null,
                     "id": 19452825,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2020-10-13T08:33:45Z",
+                    "open_issues": 13,
                     "owner": "Wolfgang-Schuetzelhofer",
                     "repo": "jcypher",
-                    "stars": 85
+                    "stars": 85,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T10:15:12.794Z"
                 }
@@ -236,12 +391,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An active model wrapper for the Neo4j Graph Database for Ruby.",
+                    "homepage": "http://neo4jrb.io",
                     "id": 20724,
                     "language": "Ruby",
+                    "license": "MIT",
                     "last_commit": "2026-08-18T01:18:55Z",
+                    "open_issues": 242,
                     "owner": "neo4jrb",
                     "repo": "activegraph",
-                    "stars": 1406
+                    "stars": 1406,
+                    "topics": [
+                      "graph-database",
+                      "neo4j",
+                      "orm",
+                      "railtie",
+                      "ruby"
+                    ]
                   },
                   "first_seen": "2026-08-28T10:15:12.794Z"
                 },
@@ -252,12 +418,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A thin Ruby wrapper to the Neo4j Rest API",
+                    "homepage": null,
                     "id": 1076059,
                     "language": "Ruby",
+                    "license": "MIT",
                     "last_commit": "2017-02-27T17:39:36Z",
+                    "open_issues": 19,
                     "owner": "maxdemarzi",
                     "repo": "neography",
-                    "stars": 603
+                    "stars": 603,
+                    "topics": [
+                      "graph-database",
+                      "graphs",
+                      "neo4j",
+                      "neo4j-driver",
+                      "neography",
+                      "ruby"
+                    ]
                   },
                   "first_seen": "2026-08-28T10:15:12.794Z"
                 }
@@ -275,12 +453,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An Object Graph Mapper (OGM) for the Neo4j graph database.",
+                    "homepage": "https://neomodel.readthedocs.io",
                     "id": 5782449,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-26T12:07:19Z",
+                    "open_issues": 45,
                     "owner": "neo4j-contrib",
                     "repo": "neomodel",
-                    "stars": 1088
+                    "stars": 1088,
+                    "topics": [
+                      "neo4j",
+                      "ogm",
+                      "python"
+                    ]
                   },
                   "first_seen": "2026-08-28T10:15:12.794Z"
                 },
@@ -291,12 +478,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Py2neo is a comprehensive toolkit for working with Neo4j from within Python applications or from the command line.",
+                    "homepage": "http://py2neo.org",
                     "id": 77080949,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2016-12-15T23:23:24Z",
+                    "open_issues": 0,
                     "owner": "nigelsmall",
                     "repo": "py2neo",
-                    "stars": 69
+                    "stars": 69,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T10:15:12.794Z"
                 }
@@ -314,12 +506,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The Neo4j OGM for Laravel",
+                    "homepage": null,
                     "id": 19354920,
                     "language": "PHP",
+                    "license": "MIT",
                     "last_commit": "2025-02-11T03:43:14Z",
+                    "open_issues": 19,
                     "owner": "Vinelab",
                     "repo": "NeoEloquent",
-                    "stars": 657
+                    "stars": 657,
+                    "topics": [
+                      "eloquent",
+                      "laravel",
+                      "neo4j"
+                    ]
                   },
                   "first_seen": "2026-08-28T10:15:12.794Z"
                 },
@@ -330,12 +531,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "PHP wrapper of the Neo4j REST interface",
+                    "homepage": null,
                     "id": 1859675,
                     "language": "PHP",
+                    "license": "NOASSERTION",
                     "last_commit": "2017-09-25T14:56:34Z",
+                    "open_issues": 37,
                     "owner": "jadell",
                     "repo": "neo4jphp",
-                    "stars": 533
+                    "stars": 533,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T10:15:12.794Z"
                 },
@@ -346,12 +552,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "PHP Client for Neo4j with Enterprise Support",
+                    "homepage": "http://graphaware.com",
                     "id": 43550978,
                     "language": "PHP",
+                    "license": "MIT",
                     "last_commit": "2021-11-30T16:50:29Z",
+                    "open_issues": 47,
                     "owner": "graphaware",
                     "repo": "neo4j-php-client",
-                    "stars": 285
+                    "stars": 285,
+                    "topics": [
+                      "bolt",
+                      "graph",
+                      "http",
+                      "neo4j",
+                      "php"
+                    ]
                   },
                   "first_seen": "2026-08-28T10:15:12.794Z"
                 },
@@ -362,12 +579,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Neo4j Object Graph Mapper for PHP",
+                    "homepage": null,
                     "id": 52896142,
                     "language": "PHP",
+                    "license": "MIT",
                     "last_commit": "2021-11-30T16:52:21Z",
+                    "open_issues": 44,
                     "owner": "graphaware",
                     "repo": "neo4j-php-ogm",
-                    "stars": 153
+                    "stars": 153,
+                    "topics": [
+                      "doctrine",
+                      "graph",
+                      "graph-database",
+                      "graph-mapper",
+                      "neo4j",
+                      "ogm",
+                      "php"
+                    ]
                   },
                   "first_seen": "2026-08-28T10:15:12.794Z"
                 },
@@ -378,12 +608,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Simple, flexible graph database abstraction for php",
+                    "homepage": null,
                     "id": 30810728,
                     "language": "PHP",
+                    "license": "MIT",
                     "last_commit": "2018-07-30T23:58:22Z",
+                    "open_issues": 8,
                     "owner": "spider",
                     "repo": "spider",
-                    "stars": 22
+                    "stars": 22,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T10:15:12.794Z"
                 }
@@ -401,12 +636,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[RETIRED] Neo4j graph database driver (REST API client) for Node.js",
+                    "homepage": null,
                     "id": 1501632,
                     "language": "CoffeeScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2018-11-20T12:02:09Z",
+                    "open_issues": 42,
                     "owner": "thingdom",
                     "repo": "node-neo4j",
-                    "stars": 921
+                    "stars": 921,
+                    "topics": [
+                      "cypher",
+                      "neo4j",
+                      "node-neo4j",
+                      "nodejs"
+                    ]
                   },
                   "first_seen": "2026-08-28T10:15:12.794Z"
                 },
@@ -417,12 +662,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": ".NET client binding for Neo4j",
+                    "homepage": "https://www.nuget.org/packages/Neo4jClient",
                     "id": 14532176,
                     "language": "C#",
+                    "license": "MS-PL",
                     "last_commit": "2024-12-19T09:29:59Z",
+                    "open_issues": 87,
                     "owner": "DotNet4Neo4j",
                     "repo": "Neo4jClient",
-                    "stars": 428
+                    "stars": 428,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T10:15:12.794Z"
                 },
@@ -433,12 +683,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Neo4j client for Golang",
+                    "homepage": null,
                     "id": 5000397,
                     "language": "Go",
+                    "license": null,
                     "last_commit": "2020-02-16T09:28:03Z",
+                    "open_issues": 12,
                     "owner": "jmcvetta",
                     "repo": "neoism",
-                    "stars": 388
+                    "stars": 388,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T10:15:12.794Z"
                 },
@@ -449,12 +704,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Neo4j Driver for R.",
+                    "homepage": "https://cran.r-project.org/web/packages/RNeo4j/",
                     "id": 19565289,
                     "language": "R",
+                    "license": "NOASSERTION",
                     "last_commit": "2019-02-19T15:23:19Z",
+                    "open_issues": 21,
                     "owner": "nicolewhite",
                     "repo": "RNeo4j",
-                    "stars": 238
+                    "stars": 238,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T10:15:12.794Z"
                 },
@@ -465,12 +725,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A feature rich idiomatic Clojure client for the Neo4J REST API",
+                    "homepage": "http://clojureneo4j.info",
                     "id": 2808010,
                     "language": "Clojure",
+                    "license": null,
                     "last_commit": "2024-11-18T19:42:50Z",
+                    "open_issues": 3,
                     "owner": "michaelklishin",
                     "repo": "neocons",
-                    "stars": 207
+                    "stars": 207,
+                    "topics": [
+                      "clojure",
+                      "clojurewerkz",
+                      "cypher",
+                      "neo4j-server"
+                    ]
                   },
                   "first_seen": "2026-08-28T10:15:12.794Z"
                 },
@@ -481,12 +751,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Neo4j Scala library based on Anorm in the Play Framework",
+                    "homepage": "anormcypher.org",
                     "id": 6410537,
                     "language": "Scala",
+                    "license": null,
                     "last_commit": "2017-05-14T17:47:26Z",
+                    "open_issues": 9,
                     "owner": "AnormCypher",
                     "repo": "AnormCypher",
-                    "stars": 127
+                    "stars": 127,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T10:15:12.794Z"
                 }
@@ -513,12 +788,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Docker Images for the Neo4j Graph Database",
+            "homepage": null,
             "id": 34655771,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T12:40:47Z",
+            "open_issues": 68,
             "owner": "neo4j",
             "repo": "docker-neo4j",
-            "stars": 381
+            "stars": 381,
+            "topics": []
           },
           "first_seen": "2026-08-28T10:15:12.794Z"
         },
@@ -529,12 +809,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": ":whale: Up & Running Neo4j cluster in no time",
+            "homepage": null,
             "id": 29867706,
             "language": "Shell",
+            "license": null,
             "last_commit": "2016-02-10T15:25:46Z",
+            "open_issues": 0,
             "owner": "ekino",
             "repo": "docker-neo4j-cluster",
-            "stars": 40
+            "stars": 40,
+            "topics": []
           },
           "first_seen": "2026-08-28T10:15:12.794Z"
         }
@@ -551,12 +836,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "GraphAware Framework Module for Integrating Neo4j with Elasticsearch",
+            "homepage": null,
             "id": 44475988,
             "language": "Java",
+            "license": null,
             "last_commit": "2021-05-05T19:30:21Z",
+            "open_issues": 2,
             "owner": "graphaware",
             "repo": "neo4j-to-elasticsearch",
-            "stars": 266
+            "stars": 266,
+            "topics": [
+              "elasticsearch",
+              "java",
+              "neo4j",
+              "neo4j-graphaware-framework"
+            ]
           },
           "first_seen": "2026-08-28T10:15:12.794Z"
         },
@@ -567,12 +862,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Neo4j ElasticSearch Integration",
+            "homepage": null,
             "id": 34621577,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2020-10-13T04:37:55Z",
+            "open_issues": 31,
             "owner": "neo4j-contrib",
             "repo": "neo4j-elasticsearch",
-            "stars": 214
+            "stars": 214,
+            "topics": []
           },
           "first_seen": "2026-08-28T10:15:12.794Z"
         },
@@ -583,12 +883,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Elasticsearch plugin offering Neo4j integration for Personalized Search",
+            "homepage": null,
             "id": 55497956,
             "language": "Java",
+            "license": null,
             "last_commit": "2021-05-05T19:53:20Z",
+            "open_issues": 0,
             "owner": "graphaware",
             "repo": "graph-aided-search",
-            "stars": 158
+            "stars": 158,
+            "topics": [
+              "elasticsearch",
+              "elasticsearch-plugin",
+              "java",
+              "neo4j"
+            ]
           },
           "first_seen": "2026-08-28T10:15:12.794Z"
         }
@@ -605,12 +915,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Doc manager for Neo4j",
+            "homepage": null,
             "id": 39858685,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2016-08-03T17:44:20Z",
+            "open_issues": 28,
             "owner": "neo4j-contrib",
             "repo": "neo4j_doc_manager",
-            "stars": 96
+            "stars": 96,
+            "topics": [
+              "importer",
+              "mongodb",
+              "mongodb-support",
+              "neo4j",
+              "oplog"
+            ]
           },
           "first_seen": "2026-08-28T10:15:12.794Z"
         },
@@ -621,12 +942,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Massively parallel RDBMS to Neo4j Importer",
+            "homepage": null,
             "id": 31496182,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2016-05-04T06:40:31Z",
+            "open_issues": 3,
             "owner": "jexp",
             "repo": "neo4j-rdbms-import",
-            "stars": 43
+            "stars": 43,
+            "topics": []
           },
           "first_seen": "2026-08-28T10:15:12.794Z"
         },
@@ -637,12 +963,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Java importer skeleton for complicated, business-logic-heavy high-performance Neo4j imports directly from SQL databases, CSV files, etc.",
+            "homepage": null,
             "id": 36469208,
             "language": "Java",
+            "license": null,
             "last_commit": "2017-04-30T15:31:04Z",
+            "open_issues": 1,
             "owner": "graphaware",
             "repo": "neo4j-importer",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "java",
+              "neo4j",
+              "neo4j-graphaware-framework"
+            ]
           },
           "first_seen": "2026-08-28T10:15:12.794Z"
         },
@@ -653,12 +988,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 41927868,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2015-11-20T16:56:35Z",
+            "open_issues": 0,
             "owner": "sarmbruster",
             "repo": "neo4j-csv-firehose",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T10:15:12.794Z"
         },
@@ -669,12 +1009,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Will output a skeleton of LOAD CSV Cypher script for Neo4j, based on .... a csv file and user hints",
+            "homepage": null,
             "id": 115574282,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2018-03-31T15:47:50Z",
+            "open_issues": 0,
             "owner": "wadael",
             "repo": "neoloadcsvskelgen",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "csv",
+              "cypher",
+              "neo4j",
+              "procedure",
+              "skeleton"
+            ]
           },
           "first_seen": "2026-08-28T10:15:12.794Z"
         }
@@ -691,12 +1042,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Neo4j Spatial is a library of utilities for Neo4j that faciliates the enabling of spatial operations on data. In particular you can add spatial indexes to already located data, and perform spatial operations on the data like searching for data within specified regions or within a specified distance of a point of interest.",
+            "homepage": "https://neo4j.com/labs/spatial/",
             "id": 511373,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2026-02-28T02:38:31Z",
+            "open_issues": 80,
             "owner": "neo4j-contrib",
             "repo": "spatial",
-            "stars": 826
+            "stars": 826,
+            "topics": [
+              "geoserver",
+              "geotools",
+              "gis",
+              "hacktoberfest",
+              "neo4j",
+              "neo4j-database",
+              "neo4j-procedures",
+              "neo4j-spatial-plugin",
+              "postgis",
+              "procedures",
+              "spatial-data"
+            ]
           },
           "first_seen": "2026-08-28T10:15:12.794Z"
         },
@@ -707,12 +1075,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Graphify is a Neo4j unmanaged extension used for document and text classification using graph-based hierarchical pattern recognition.",
+            "homepage": "http://graphify.github.io/graphify",
             "id": 22750538,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2020-04-04T03:49:01Z",
+            "open_issues": 10,
             "owner": "kbastani",
             "repo": "graphify",
-            "stars": 447
+            "stars": 447,
+            "topics": []
           },
           "first_seen": "2026-08-28T10:15:12.794Z"
         },
@@ -723,12 +1096,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Neo4j-based recommendation engine module with real-time and pre-computed recommendations.",
+            "homepage": null,
             "id": 24729476,
             "language": "Java",
+            "license": null,
             "last_commit": "2021-05-05T19:26:05Z",
+            "open_issues": 6,
             "owner": "graphaware",
             "repo": "neo4j-reco",
-            "stars": 387
+            "stars": 387,
+            "topics": [
+              "graphaware-recommendation-engine",
+              "java",
+              "neo4j",
+              "neo4j-graphaware-framework",
+              "recommendation-engine"
+            ]
           },
           "first_seen": "2026-08-28T10:15:12.794Z"
         },
@@ -739,12 +1123,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Java and REST APIs for working with time-representing tree in Neo4j",
+            "homepage": null,
             "id": 19353783,
             "language": "Java",
+            "license": null,
             "last_commit": "2021-05-05T19:20:47Z",
+            "open_issues": 0,
             "owner": "graphaware",
             "repo": "neo4j-timetree",
-            "stars": 210
+            "stars": 210,
+            "topics": [
+              "java",
+              "neo4j",
+              "neo4j-graphaware-framework"
+            ]
           },
           "first_seen": "2026-08-28T10:15:12.794Z"
         },
@@ -755,12 +1148,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "GraphAware Runtime Module that assigns a UUID to all nodes (and relationships) in the graph transparently",
+            "homepage": null,
             "id": 22209768,
             "language": "Java",
+            "license": null,
             "last_commit": "2021-05-05T19:41:26Z",
+            "open_issues": 0,
             "owner": "graphaware",
             "repo": "neo4j-uuid",
-            "stars": 106
+            "stars": 106,
+            "topics": [
+              "java",
+              "neo4j",
+              "neo4j-graphaware-framework"
+            ]
           },
           "first_seen": "2026-08-28T10:15:12.794Z"
         },
@@ -771,12 +1173,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Custom graph algorithms for Neo4j with own Java and REST APIs",
+            "homepage": null,
             "id": 19354144,
             "language": "Java",
+            "license": null,
             "last_commit": "2016-08-15T19:41:19Z",
+            "open_issues": 0,
             "owner": "graphaware",
             "repo": "neo4j-algorithms",
-            "stars": 35
+            "stars": 35,
+            "topics": []
           },
           "first_seen": "2026-08-28T10:15:12.794Z"
         },
@@ -787,12 +1194,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "GraphAware Module for Expiring (Deleting) Nodes and Relationships",
+            "homepage": null,
             "id": 49227948,
             "language": "Java",
+            "license": null,
             "last_commit": "2021-05-05T19:23:42Z",
+            "open_issues": 0,
             "owner": "graphaware",
             "repo": "neo4j-expire",
-            "stars": 28
+            "stars": 28,
+            "topics": [
+              "java",
+              "neo4j",
+              "neo4j-graphaware-framework"
+            ]
           },
           "first_seen": "2026-08-28T10:15:12.794Z"
         },
@@ -803,12 +1219,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A GraphAware Framework Runtime Module allowing users to find out what were the latest changes performed on the graph",
+            "homepage": null,
             "id": 21350783,
             "language": "Java",
+            "license": null,
             "last_commit": "2018-01-26T11:40:29Z",
+            "open_issues": 0,
             "owner": "graphaware",
             "repo": "neo4j-changefeed",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T10:15:12.794Z"
         },
@@ -819,12 +1240,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Library for testing Neo4j code over REST",
+            "homepage": null,
             "id": 20940842,
             "language": "Java",
+            "license": null,
             "last_commit": "2020-11-14T14:37:42Z",
+            "open_issues": 1,
             "owner": "graphaware",
             "repo": "neo4j-resttest",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "java",
+              "neo4j",
+              "neo4j-graphaware-framework"
+            ]
           },
           "first_seen": "2026-08-28T10:15:12.794Z"
         },
@@ -835,12 +1265,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Simple library that warms up Neo4j caches with a single REST call",
+            "homepage": null,
             "id": 23263704,
             "language": "Java",
+            "license": null,
             "last_commit": "2016-07-05T11:25:31Z",
+            "open_issues": 0,
             "owner": "graphaware",
             "repo": "neo4j-warmup",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T10:15:12.794Z"
         },
@@ -851,12 +1286,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a Neo4j Server Extension to make Neo4j REST-API participate in transactions started by the transactional Cypher endpoint.",
+            "homepage": null,
             "id": 36163955,
             "language": "Java",
+            "license": null,
             "last_commit": "2015-05-24T08:56:34Z",
+            "open_issues": 0,
             "owner": "jexp",
             "repo": "neo4j-tx-participation",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T10:15:12.794Z"
         }
@@ -873,12 +1313,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome Procedures On Cypher for Neo4j - codenamed \"apoc\"                     If you like it, please ★ above ⇧            ",
+            "homepage": "https://neo4j.com/labs/apoc",
             "id": 52509220,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T15:12:38Z",
+            "open_issues": 28,
             "owner": "neo4j-contrib",
             "repo": "neo4j-apoc-procedures",
-            "stars": 1869
+            "stars": 1869,
+            "topics": [
+              "graph-algorithms",
+              "graph-database",
+              "hacktoberfest",
+              "neo4j",
+              "neo4j-plugin",
+              "stored-procedures"
+            ]
           },
           "first_seen": "2026-08-28T10:15:12.794Z"
         },
@@ -889,12 +1341,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Neo4j Procedure for generating test data",
+            "homepage": "http://graphaware.com",
             "id": 56416513,
             "language": "Java",
+            "license": null,
             "last_commit": "2016-06-29T20:01:48Z",
+            "open_issues": 0,
             "owner": "graphaware",
             "repo": "neo4j-graphgen-procedure",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T10:15:12.794Z"
         }
@@ -911,12 +1368,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Property Graph Model Interface (no longer active - see Apache TinkerPop)",
+            "homepage": "http://tinkerpop.apache.org",
             "id": 508590,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2021-08-17T13:31:27Z",
+            "open_issues": 19,
             "owner": "tinkerpop",
             "repo": "blueprints",
-            "stars": 1359
+            "stars": 1359,
+            "topics": []
           },
           "first_seen": "2026-08-28T10:15:12.794Z"
         },
@@ -927,12 +1389,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ATTENTION: This repository is a clone of https://gitlab.structr.com/structr/structr. All development/issue tracking has moved there. | Structr is an integrated open-source low-code development and runtime environment that uses a graph database (Neo4j).",
+            "homepage": "https://structr.org",
             "id": 1317787,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-10T14:24:02Z",
+            "open_issues": 5,
             "owner": "structr",
             "repo": "structr",
-            "stars": 828
+            "stars": 828,
+            "topics": [
+              "backend",
+              "backend-framework",
+              "data-modeling",
+              "frontend-framework",
+              "full-stack",
+              "graalvm",
+              "graph",
+              "graph-database",
+              "low-code",
+              "low-code-development-platform",
+              "open-api",
+              "platform-as-a-service",
+              "polyglot-programming",
+              "productivity",
+              "productivity-tools",
+              "schema-design",
+              "software-as-a-service",
+              "web-application-framework",
+              "web-development"
+            ]
           },
           "first_seen": "2026-08-28T10:15:12.794Z"
         },
@@ -943,12 +1430,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "GraphAware Neo4j Framework",
+            "homepage": null,
             "id": 11500828,
             "language": "Java",
+            "license": null,
             "last_commit": "2021-05-05T19:16:21Z",
+            "open_issues": 1,
             "owner": "graphaware",
             "repo": "neo4j-framework",
-            "stars": 249
+            "stars": 249,
+            "topics": [
+              "java",
+              "neo4j",
+              "neo4j-graphaware-framework"
+            ]
           },
           "first_seen": "2026-08-28T10:15:12.794Z"
         },
@@ -959,12 +1455,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Java DSL (Builder) for the Cypher Query Language",
+            "homepage": "http://neo4j.github.io/cypher-dsl",
             "id": 2510313,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T08:35:49Z",
+            "open_issues": 8,
             "owner": "neo4j",
             "repo": "cypher-dsl",
-            "stars": 227
+            "stars": 227,
+            "topics": [
+              "builder",
+              "cypher",
+              "cypher-builder",
+              "cypher-query-language",
+              "dsl",
+              "java",
+              "java-dsl",
+              "neo4j"
+            ]
           },
           "first_seen": "2026-08-28T10:15:12.794Z"
         },
@@ -975,12 +1485,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Neo4j based Recommendation Engine Framework for PHP",
+            "homepage": null,
             "id": 49773470,
             "language": "PHP",
+            "license": "NOASSERTION",
             "last_commit": "2022-10-23T16:51:55Z",
+            "open_issues": 3,
             "owner": "graphaware",
             "repo": "reco4php",
-            "stars": 129
+            "stars": 129,
+            "topics": []
           },
           "first_seen": "2026-08-28T10:15:12.794Z"
         },
@@ -991,12 +1506,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Migrations for Neo4j",
+            "homepage": "https://www.liquigraph.org",
             "id": 25598822,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2025-05-27T09:19:23Z",
+            "open_issues": 0,
             "owner": "liquibase",
             "repo": "liquigraph",
-            "stars": 123
+            "stars": 123,
+            "topics": [
+              "evolutionary-database-design",
+              "graph",
+              "graph-database",
+              "hacktoberfest",
+              "migrations",
+              "neo4j",
+              "refactoring",
+              "refactoring-tools"
+            ]
           },
           "first_seen": "2026-08-28T10:15:12.794Z"
         }
@@ -1013,12 +1542,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Graph Databases support for JetBrains family IDEs.",
+            "homepage": null,
             "id": 61826847,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2021-11-04T06:48:03Z",
+            "open_issues": 54,
             "owner": "neueda",
             "repo": "jetbrains-plugin-graph-database-support",
-            "stars": 227
+            "stars": 227,
+            "topics": [
+              "cypher",
+              "graph-database-support",
+              "intellij-plugin",
+              "java",
+              "jetbrains",
+              "neo4j"
+            ]
           },
           "first_seen": "2026-08-28T10:15:12.794Z"
         },
@@ -1029,12 +1570,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Very basic Vim syntax for Cypher",
+            "homepage": null,
             "id": 9488277,
             "language": "Vim script",
+            "license": null,
             "last_commit": "2021-08-09T12:20:11Z",
+            "open_issues": 0,
             "owner": "neo4j-contrib",
             "repo": "cypher-vim-syntax",
-            "stars": 40
+            "stars": 40,
+            "topics": []
           },
           "first_seen": "2026-08-28T10:15:12.794Z"
         }
@@ -1051,12 +1597,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A bunch of import/export tools for the neo4j-shell",
+            "homepage": null,
             "id": 11194460,
             "language": "Java",
+            "license": null,
             "last_commit": "2019-01-04T22:44:26Z",
+            "open_issues": 65,
             "owner": "jexp",
             "repo": "neo4j-shell-tools",
-            "stars": 290
+            "stars": 290,
+            "topics": []
           },
           "first_seen": "2026-08-28T10:15:12.794Z"
         },
@@ -1067,12 +1618,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A Command Line Interface for Neo4j's Cypher.",
+            "homepage": null,
             "id": 39975630,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2018-12-17T15:29:13Z",
+            "open_issues": 20,
             "owner": "nicolewhite",
             "repo": "cycli",
-            "stars": 271
+            "stars": 271,
+            "topics": []
           },
           "first_seen": "2026-08-28T10:15:12.794Z"
         }
@@ -1089,12 +1645,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Gephi - The Open Graph Viz Platform",
+            "homepage": "http://gephi.org",
             "id": 2624521,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T07:55:59Z",
+            "open_issues": 442,
             "owner": "gephi",
             "repo": "gephi",
-            "stars": 6625
+            "stars": 6625,
+            "topics": [
+              "graph",
+              "graph-analytics",
+              "interactive",
+              "java",
+              "opengl",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T10:15:12.794Z"
         },
@@ -1105,12 +1673,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Graph Database Tool",
+            "homepage": null,
             "id": 1425741,
             "language": "Java",
+            "license": null,
             "last_commit": "2016-12-16T20:20:46Z",
+            "open_issues": 58,
             "owner": "neo4j-contrib",
             "repo": "neoclipse",
-            "stars": 221
+            "stars": 221,
+            "topics": []
           },
           "first_seen": "2026-08-28T10:15:12.794Z"
         }
@@ -1127,12 +1700,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Utilities to compact, copy, fix, analyse Neo4j stores",
+            "homepage": null,
             "id": 16136810,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2022-10-14T13:18:09Z",
+            "open_issues": 32,
             "owner": "jexp",
             "repo": "store-utils",
-            "stars": 93
+            "stars": 93,
+            "topics": []
           },
           "first_seen": "2026-08-28T10:15:12.794Z"
         },
@@ -1143,12 +1721,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Neo4j instance manager and version manager",
+            "homepage": null,
             "id": 40024778,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2025-10-28T15:55:30Z",
+            "open_issues": 0,
             "owner": "cohesivestack",
             "repo": "ineo",
-            "stars": 75
+            "stars": 75,
+            "topics": [
+              "database-instance",
+              "neo4j",
+              "neo4j-database",
+              "neo4j-instances",
+              "neo4j-server"
+            ]
           },
           "first_seen": "2026-08-28T10:15:12.794Z"
         },
@@ -1161,12 +1750,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A koan-style tutorial in Java for Neo4j",
+                "homepage": null,
                 "id": 1225993,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2015-03-26T13:59:39Z",
+                "open_issues": 10,
                 "owner": "jimwebber",
                 "repo": "neo4j-tutorial",
-                "stars": 315
+                "stars": 315,
+                "topics": []
               },
               "first_seen": "2026-08-28T10:15:12.794Z"
             }
@@ -1180,15 +1774,20 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T10:15:12.794Z",
+    "last_updated": "2026-08-29T04:41:15.104Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of Neo4j resources.",
+      "homepage": null,
       "id": 43137821,
       "language": null,
+      "license": null,
       "last_commit": "2020-12-09T06:58:51Z",
+      "open_issues": 3,
       "owner": "neueda",
       "repo": "awesome-neo4j",
-      "stars": 565
+      "stars": 565,
+      "topics": []
     },
     "original_repository_sha": "5d0900623269f17976f31e00fac2c92b4699e862",
     "enhanced_repository": "enhansome/enhansome-neo4j",
