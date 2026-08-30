@@ -1654,7 +1654,7 @@
             "open_issues": 448,
             "owner": "gephi",
             "repo": "gephi",
-            "stars": 6625,
+            "stars": 6627,
             "topics": [
               "graph",
               "graph-analytics",
@@ -1774,7 +1774,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T06:14:17.175Z",
+    "last_updated": "2026-08-30T04:23:14.075Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Neo4j resources.",
