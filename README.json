@@ -281,7 +281,7 @@
                     "language": "Java",
                     "license": "Apache-2.0",
                     "last_commit": "2026-08-21T09:05:08Z",
-                    "open_issues": 35,
+                    "open_issues": 36,
                     "owner": "spring-projects",
                     "repo": "spring-data-neo4j",
                     "stars": 867,
@@ -1322,7 +1322,7 @@
             "open_issues": 33,
             "owner": "neo4j-contrib",
             "repo": "neo4j-apoc-procedures",
-            "stars": 1867,
+            "stars": 1868,
             "topics": [
               "graph-algorithms",
               "graph-database",
@@ -1650,8 +1650,8 @@
             "id": 2624521,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-06T19:39:58Z",
-            "open_issues": 440,
+            "last_commit": "2026-09-12T05:33:01Z",
+            "open_issues": 444,
             "owner": "gephi",
             "repo": "gephi",
             "stars": 6645,
@@ -1774,7 +1774,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T03:44:32.534Z",
+    "last_updated": "2026-09-13T03:52:32.438Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Neo4j resources.",
