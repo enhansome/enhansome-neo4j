@@ -1650,11 +1650,11 @@
             "id": 2624521,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-12T05:33:01Z",
+            "last_commit": "2026-09-13T16:11:27Z",
             "open_issues": 444,
             "owner": "gephi",
             "repo": "gephi",
-            "stars": 6645,
+            "stars": 6647,
             "topics": [
               "graph",
               "graph-analytics",
@@ -1774,7 +1774,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T03:52:32.438Z",
+    "last_updated": "2026-09-14T03:59:39.181Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Neo4j resources.",
