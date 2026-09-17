@@ -106,7 +106,7 @@
                 "id": 53063706,
                 "language": "Scala",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-15T17:34:15Z",
+                "last_commit": "2026-09-16T14:39:27Z",
                 "open_issues": 9,
                 "owner": "neo4j",
                 "repo": "neo4j-spark-connector",
@@ -163,7 +163,7 @@
                 "id": 49424996,
                 "language": "C#",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-11T12:50:23Z",
+                "last_commit": "2026-09-16T12:42:51Z",
                 "open_issues": 2,
                 "owner": "neo4j",
                 "repo": "neo4j-dotnet-driver",
@@ -341,7 +341,7 @@
                     "open_issues": 16,
                     "owner": "neo4j",
                     "repo": "neo4j-jdbc",
-                    "stars": 154,
+                    "stars": 155,
                     "topics": [
                       "business-intelligence",
                       "driver",
@@ -459,10 +459,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-08-26T12:07:19Z",
-                    "open_issues": 47,
+                    "open_issues": 50,
                     "owner": "neo4j-contrib",
                     "repo": "neomodel",
-                    "stars": 1088,
+                    "stars": 1087,
                     "topics": [
                       "neo4j",
                       "ogm",
@@ -793,7 +793,7 @@
             "id": 34655771,
             "language": "Shell",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T13:06:18Z",
+            "last_commit": "2026-09-16T11:17:03Z",
             "open_issues": 68,
             "owner": "neo4j",
             "repo": "docker-neo4j",
@@ -1654,7 +1654,7 @@
             "open_issues": 444,
             "owner": "gephi",
             "repo": "gephi",
-            "stars": 6650,
+            "stars": 6651,
             "topics": [
               "graph",
               "graph-analytics",
@@ -1774,7 +1774,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T03:56:41.564Z",
+    "last_updated": "2026-09-17T04:02:02.134Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Neo4j resources.",
