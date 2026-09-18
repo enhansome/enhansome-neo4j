@@ -17,11 +17,11 @@
                 "id": 35100117,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-15T08:51:46Z",
-                "open_issues": 9,
+                "last_commit": "2026-09-17T18:15:36Z",
+                "open_issues": 7,
                 "owner": "neo4j",
                 "repo": "neo4j-python-driver",
-                "stars": 1048,
+                "stars": 1049,
                 "topics": [
                   "binary-protocol",
                   "cypher",
@@ -106,8 +106,8 @@
                 "id": 53063706,
                 "language": "Scala",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-16T14:39:27Z",
-                "open_issues": 9,
+                "last_commit": "2026-09-17T14:40:32Z",
+                "open_issues": 8,
                 "owner": "neo4j",
                 "repo": "neo4j-spark-connector",
                 "stars": 324,
@@ -163,8 +163,8 @@
                 "id": 49424996,
                 "language": "C#",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-16T12:42:51Z",
-                "open_issues": 2,
+                "last_commit": "2026-09-17T12:42:47Z",
+                "open_issues": 3,
                 "owner": "neo4j",
                 "repo": "neo4j-dotnet-driver",
                 "stars": 247,
@@ -312,7 +312,7 @@
                     "open_issues": 8,
                     "owner": "neo4j",
                     "repo": "neo4j-ogm",
-                    "stars": 360,
+                    "stars": 361,
                     "topics": [
                       "database",
                       "graph-databases",
@@ -1084,7 +1084,7 @@
             "open_issues": 10,
             "owner": "kbastani",
             "repo": "graphify",
-            "stars": 448,
+            "stars": 449,
             "topics": []
           },
           "first_seen": "2026-08-28T10:15:12.794Z"
@@ -1398,7 +1398,7 @@
             "open_issues": 5,
             "owner": "structr",
             "repo": "structr",
-            "stars": 829,
+            "stars": 830,
             "topics": [
               "backend",
               "backend-framework",
@@ -1682,7 +1682,7 @@
             "open_issues": 58,
             "owner": "neo4j-contrib",
             "repo": "neoclipse",
-            "stars": 221,
+            "stars": 222,
             "topics": []
           },
           "first_seen": "2026-08-28T10:15:12.794Z"
@@ -1774,7 +1774,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T04:02:02.134Z",
+    "last_updated": "2026-09-18T03:48:58.698Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Neo4j resources.",
