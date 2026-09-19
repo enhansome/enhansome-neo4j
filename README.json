@@ -79,10 +79,10 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-24T20:47:24Z",
-                "open_issues": 1,
+                "open_issues": 3,
                 "owner": "neo4j",
                 "repo": "neo4j-java-driver",
-                "stars": 348,
+                "stars": 347,
                 "topics": [
                   "bolt",
                   "database",
@@ -280,7 +280,7 @@
                     "id": 2470730,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-15T09:26:18Z",
+                    "last_commit": "2026-09-18T09:59:50Z",
                     "open_issues": 34,
                     "owner": "spring-projects",
                     "repo": "spring-data-neo4j",
@@ -462,7 +462,7 @@
                     "open_issues": 50,
                     "owner": "neo4j-contrib",
                     "repo": "neomodel",
-                    "stars": 1087,
+                    "stars": 1088,
                     "topics": [
                       "neo4j",
                       "ogm",
@@ -1774,7 +1774,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T03:48:58.698Z",
+    "last_updated": "2026-09-19T03:45:45.744Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Neo4j resources.",
