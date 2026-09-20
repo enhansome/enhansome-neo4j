@@ -458,7 +458,7 @@
                     "id": 5782449,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-08-26T12:07:19Z",
+                    "last_commit": "2026-09-19T08:38:54Z",
                     "open_issues": 50,
                     "owner": "neo4j-contrib",
                     "repo": "neomodel",
@@ -1654,7 +1654,7 @@
             "open_issues": 444,
             "owner": "gephi",
             "repo": "gephi",
-            "stars": 6651,
+            "stars": 6652,
             "topics": [
               "graph",
               "graph-analytics",
@@ -1774,7 +1774,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T03:45:45.744Z",
+    "last_updated": "2026-09-20T04:01:24.800Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Neo4j resources.",
