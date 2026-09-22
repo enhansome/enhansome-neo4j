@@ -1,6 +1,6 @@
 # Awesome Neo4j with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 508,298 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 508,697 | 🐛 106 | 📅 2026-09-02
 [![Build Status](https://api.travis-ci.org/neueda/awesome-neo4j.svg?branch=master)](https://travis-ci.org/neueda/awesome-neo4j)
 
 A curated list of awesome [Neo4j](https://neo4j.com/) resources.\
@@ -9,7 +9,7 @@ Inspired by the `awesome-*` trend on GitHub.
 The goal is to build a categorized community-driven collection of very well-known resources.\
 Sharing, suggestions and contributions are always welcome!
 
-Thanks to all [contributors](https://github.com/Neueda/awesome-neo4j/graphs/contributors) ⭐ 564 | 🐛 3 | 📅 2020-12-09.
+Thanks to all [contributors](https://github.com/Neueda/awesome-neo4j/graphs/contributors) ⭐ 565 | 🐛 3 | 📅 2020-12-09.
 
 Maintained by [Neueda R\&D](http://labs.neueda.com/).
 
@@ -66,7 +66,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go) ⭐ 5
 
 * [neo4j-python-driver](https://github.com/neo4j/neo4j-python-driver) ⭐ 1,049 | 🐛 7 | 🌐 Python | 📅 2026-09-17 - Python driver for Neo4j binary protocol.
 * [neo4j-javascript-driver](https://github.com/neo4j/neo4j-javascript-driver) ⭐ 917 | 🐛 33 | 🌐 JavaScript | 📅 2026-09-10 - JavaScript driver for Neo4j binary protocol.
-* [neo4j-java-driver](https://github.com/neo4j/neo4j-java-driver) ⭐ 347 | 🐛 3 | 🌐 Java | 📅 2026-08-24 - Java driver for Neo4j binary protocol.
+* [neo4j-java-driver](https://github.com/neo4j/neo4j-java-driver) ⭐ 347 | 🐛 3 | 🌐 Java | 📅 2026-09-21 - Java driver for Neo4j binary protocol.
 * [neo4j-spark-connector](https://github.com/neo4j-contrib/neo4j-spark-connector) ⭐ 324 | 🐛 8 | 🌐 Scala | 📅 2026-09-17 - Neo4j-Spark-Connector based on Neo4j 3.0's Bolt protocol
 * [neo4j-elixir-wrapper](https://github.com/florinpatrascu/bolt_sips) ⭐ 267 | 🐛 4 | 🌐 Elixir | 📅 2023-11-18 - Neo4j driver for Elixir, wrapped around the Bolt protocol. Fork of the Boltex.
 * [neo4j-dotnet-driver](https://github.com/neo4j/neo4j-dotnet-driver) ⭐ 247 | 🐛 3 | 🌐 C# | 📅 2026-09-17 - .Net driver for Neo4j (Bolt).
@@ -79,8 +79,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go) ⭐ 5
 ### Java
 
 * [spring-data-neo4j](https://github.com/spring-projects/spring-data-neo4j) ⭐ 867 | 🐛 34 | 🌐 Java | 📅 2026-09-18 - Provides support to increase developer productivity in Java when using the neo4j graph database.
-* [neo4j-ogm](https://github.com/neo4j/neo4j-ogm) ⭐ 361 | 🐛 8 | 🌐 Java | 📅 2026-09-14 - Object-Graph Mapping Library for Neo4j.
-* [neo4j-jdbc](https://github.com/neo4j-contrib/neo4j-jdbc) ⭐ 155 | 🐛 16 | 🌐 Java | 📅 2026-09-15 - Neo4j JDBC driver.
+* [neo4j-ogm](https://github.com/neo4j/neo4j-ogm) ⭐ 361 | 🐛 12 | 🌐 Java | 📅 2026-09-21 - Object-Graph Mapping Library for Neo4j.
+* [neo4j-jdbc](https://github.com/neo4j-contrib/neo4j-jdbc) ⭐ 155 | 🐛 26 | 🌐 Java | 📅 2026-09-21 - Neo4j JDBC driver.
 * [jcypher](https://github.com/Wolfgang-Schuetzelhofer/jcypher) ⭐ 85 | 🐛 13 | 🌐 Java | 📅 2020-10-13 - Java access to Neo4J graph databases at multiple levels of abstraction.
 
 ### Ruby
@@ -103,7 +103,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go) ⭐ 5
 
 ### Other
 
-* [node-neo4j](https://github.com/thingdom/node-neo4j) ⭐ 921 | 🐛 42 | 🌐 CoffeeScript | 📅 2018-11-20 - REST API client for Node.
+* [node-neo4j](https://github.com/thingdom/node-neo4j) ⭐ 920 | 🐛 42 | 🌐 CoffeeScript | 📅 2018-11-20 - REST API client for Node.
 * [Neo4jClient](https://github.com/Readify/Neo4jClient) ⭐ 428 | 🐛 87 | 🌐 C# | 📅 2024-12-19 - .NET client binding.
 * [neoism](https://github.com/jmcvetta/neoism) ⭐ 388 | 🐛 12 | 🌐 Go | 📅 2020-02-16 - Client for Golang.
 * [RNeo4j](https://github.com/nicolewhite/RNeo4j) ⚠️ Archived - Driver for R.
@@ -123,7 +123,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go) ⭐ 5
 
 # Docker
 
-* [docker-neo4j](https://github.com/neo4j/docker-neo4j) ⭐ 383 | 🐛 68 | 🌐 Shell | 📅 2026-09-16 - Docker Images for the Neo4j Graph Database.
+* [docker-neo4j](https://github.com/neo4j/docker-neo4j) ⭐ 383 | 🐛 68 | 🌐 Shell | 📅 2026-09-21 - Docker Images for the Neo4j Graph Database.
 * [docker-neo4j-cluster](https://github.com/ekino/docker-neo4j-cluster) ⚠️ Archived - Up & Running Neo4j cluster in no time.
 
 # Full-text search
@@ -160,15 +160,15 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go) ⭐ 5
 
 # Stored Procedures
 
-* [Apoc : Awesome Procedures on Cypher](https://github.com/neo4j-contrib/neo4j-apoc-procedures) ⭐ 1,868 | 🐛 33 | 🌐 Java | 📅 2026-09-10 - Collection of useful procedures for Neo4j 3.x
+* [Apoc : Awesome Procedures on Cypher](https://github.com/neo4j-contrib/neo4j-apoc-procedures) ⭐ 1,868 | 🐛 34 | 🌐 Java | 📅 2026-09-21 - Collection of useful procedures for Neo4j 3.x
 * [Graphgen](https://github.com/graphaware/neo4j-graphgen-procedure) ⭐ 9 | 🐛 0 | 🌐 Java | 📅 2016-06-29 - Neo4j procedure for generating test data easily with Cypher
 
 # Development
 
 * [blueprints](https://github.com/tinkerpop/blueprints) ⭐ 1,359 | 🐛 19 | 🌐 Java | 📅 2021-08-17 - Blueprints is a collection of interfaces, implementations, ouplementations, and test suites for the property graph data model. Blueprints is analogous to the JDBC, but for graph databases.
-* [structr](https://github.com/structr/structr) ⭐ 830 | 🐛 5 | 🌐 Java | 📅 2026-09-10 - Graph Application Platform based on Neo4j.
+* [structr](https://github.com/structr/structr) ⭐ 829 | 🐛 5 | 🌐 Java | 📅 2026-09-10 - Graph Application Platform based on Neo4j.
 * [GraphAware Neo4j Framework](https://github.com/graphaware/neo4j-framework) ⚠️ Archived- GraphAware Framework speeds up development with Neo4j by providing a platform for building useful generic as well as domain-specific functionality, analytical capabilities, (iterative) graph algorithms, etc.
-* [cypher-dsl](https://github.com/neo4j-contrib/cypher-dsl) ⭐ 227 | 🐛 13 | 🌐 Java | 📅 2026-09-14 - A Java DSL for the Cypher Query Language and an optional Query DSL mode.
+* [cypher-dsl](https://github.com/neo4j-contrib/cypher-dsl) ⭐ 227 | 🐛 16 | 🌐 Java | 📅 2026-09-21 - A Java DSL for the Cypher Query Language and an optional Query DSL mode.
 * [Reco4PHP](https://github.com/graphaware/reco4php) ⭐ 129 | 🐛 3 | 🌐 PHP | 📅 2022-10-23 - Neo4j based Recommendation Engine Framework for PHP.
 * [Liquigraph](https://github.com/liquigraph/liquigraph) ⚠️ Archived - Database migrations management tool, based on how Liquibase works.
 * [Maven repositories](https://m2.neo4j.org/index.html) - Neo4j Maven repositories (releases, snapshots).
@@ -185,7 +185,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go) ⭐ 5
 
 # Visualization
 
-* [Gephi](https://github.com/gephi/gephi) ⭐ 6,653 | 🐛 444 | 🌐 Java | 📅 2026-09-20 - Gephi is an award-winning open-source platform for visualizing and manipulating large graphs.
+* [Gephi](https://github.com/gephi/gephi) ⭐ 6,652 | 🐛 444 | 🌐 Java | 📅 2026-09-20 - Gephi is an award-winning open-source platform for visualizing and manipulating large graphs.
 * [neoclipse](https://github.com/neo4j-contrib/neoclipse) ⚠️ Archived - Neoclipse is a tool to view, edit and explore Neo4j databases.
 * [Linkurious](https://linkurio.us/) - Linkurious helps search and visualize your graph data through a simple web-based interface.
 * [yFiles for HTML](https://www.yworks.com/products/yfiles-for-html) - yFiles is a commercial generic graph visualization programming library that comes with [a demo to visualize your neo4j databases in JavaScript](http://live.yworks.com/demos/#neo4j). It's also the basis for the [free neo4j Graph Explorer app](https://www.yworks.com/neo4j-explorer/).
@@ -220,4 +220,4 @@ To the extent possible under law, [Neueda R\&D](https://github.com/Neueda) has w
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
