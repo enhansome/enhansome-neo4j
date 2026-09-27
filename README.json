@@ -284,7 +284,7 @@
                     "open_issues": 33,
                     "owner": "spring-projects",
                     "repo": "spring-data-neo4j",
-                    "stars": 867,
+                    "stars": 868,
                     "topics": [
                       "ddd",
                       "framework",
@@ -1650,8 +1650,8 @@
             "id": 2624521,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-20T13:27:55Z",
-            "open_issues": 444,
+            "last_commit": "2026-09-26T08:30:44Z",
+            "open_issues": 446,
             "owner": "gephi",
             "repo": "gephi",
             "stars": 6657,
@@ -1774,7 +1774,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T04:07:28.104Z",
+    "last_updated": "2026-09-27T04:21:50.817Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Neo4j resources.",
