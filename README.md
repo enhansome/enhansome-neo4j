@@ -1,6 +1,6 @@
 # Awesome Neo4j with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 512,078 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 512,524 | 🐛 106 | 📅 2026-09-02
 [![Build Status](https://api.travis-ci.org/neueda/awesome-neo4j.svg?branch=master)](https://travis-ci.org/neueda/awesome-neo4j)
 
 A curated list of awesome [Neo4j](https://neo4j.com/) resources.\
@@ -65,9 +65,9 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go) ⭐ 5
 ## Bolt
 
 * [neo4j-python-driver](https://github.com/neo4j/neo4j-python-driver) ⭐ 1,049 | 🐛 11 | 🌐 Python | 📅 2026-09-24 - Python driver for Neo4j binary protocol.
-* [neo4j-javascript-driver](https://github.com/neo4j/neo4j-javascript-driver) ⭐ 917 | 🐛 34 | 🌐 JavaScript | 📅 2026-09-28 - JavaScript driver for Neo4j binary protocol.
-* [neo4j-java-driver](https://github.com/neo4j/neo4j-java-driver) ⭐ 347 | 🐛 0 | 🌐 Java | 📅 2026-09-23 - Java driver for Neo4j binary protocol.
-* [neo4j-spark-connector](https://github.com/neo4j-contrib/neo4j-spark-connector) ⭐ 323 | 🐛 12 | 🌐 Scala | 📅 2026-09-28 - Neo4j-Spark-Connector based on Neo4j 3.0's Bolt protocol
+* [neo4j-javascript-driver](https://github.com/neo4j/neo4j-javascript-driver) ⭐ 916 | 🐛 34 | 🌐 JavaScript | 📅 2026-09-29 - JavaScript driver for Neo4j binary protocol.
+* [neo4j-java-driver](https://github.com/neo4j/neo4j-java-driver) ⭐ 347 | 🐛 1 | 🌐 Java | 📅 2026-09-23 - Java driver for Neo4j binary protocol.
+* [neo4j-spark-connector](https://github.com/neo4j-contrib/neo4j-spark-connector) ⭐ 323 | 🐛 13 | 🌐 Scala | 📅 2026-09-29 - Neo4j-Spark-Connector based on Neo4j 3.0's Bolt protocol
 * [neo4j-elixir-wrapper](https://github.com/florinpatrascu/bolt_sips) ⭐ 267 | 🐛 4 | 🌐 Elixir | 📅 2023-11-18 - Neo4j driver for Elixir, wrapped around the Bolt protocol. Fork of the Boltex.
 * [neo4j-dotnet-driver](https://github.com/neo4j/neo4j-dotnet-driver) ⭐ 247 | 🐛 4 | 🌐 C# | 📅 2026-09-17 - .Net driver for Neo4j (Bolt).
 * [libneo4j-client](https://github.com/cleishm/libneo4j-client) ⭐ 160 | 🐛 20 | 🌐 C | 📅 2023-05-08 - libneo4j-client is a client library written in C for Neo4j. It is not intended as a complete driver, but rather as a foundation on which basic tools and drivers for various languages may be built. libneo4j-client takes care of all the detail of establishing a session with a Neo4j server, sending statements for evaluation, and retrieving results.
@@ -80,7 +80,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go) ⭐ 5
 
 * [spring-data-neo4j](https://github.com/spring-projects/spring-data-neo4j) ⭐ 867 | 🐛 33 | 🌐 Java | 📅 2026-09-28 - Provides support to increase developer productivity in Java when using the neo4j graph database.
 * [neo4j-ogm](https://github.com/neo4j/neo4j-ogm) ⭐ 362 | 🐛 13 | 🌐 Java | 📅 2026-09-28 - Object-Graph Mapping Library for Neo4j.
-* [neo4j-jdbc](https://github.com/neo4j-contrib/neo4j-jdbc) ⭐ 155 | 🐛 16 | 🌐 Java | 📅 2026-09-28 - Neo4j JDBC driver.
+* [neo4j-jdbc](https://github.com/neo4j-contrib/neo4j-jdbc) ⭐ 155 | 🐛 17 | 🌐 Java | 📅 2026-09-29 - Neo4j JDBC driver.
 * [jcypher](https://github.com/Wolfgang-Schuetzelhofer/jcypher) ⭐ 85 | 🐛 13 | 🌐 Java | 📅 2020-10-13 - Java access to Neo4J graph databases at multiple levels of abstraction.
 
 ### Ruby
@@ -123,7 +123,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go) ⭐ 5
 
 # Docker
 
-* [docker-neo4j](https://github.com/neo4j/docker-neo4j) ⭐ 383 | 🐛 67 | 🌐 Shell | 📅 2026-09-28 - Docker Images for the Neo4j Graph Database.
+* [docker-neo4j](https://github.com/neo4j/docker-neo4j) ⭐ 383 | 🐛 68 | 🌐 Shell | 📅 2026-09-28 - Docker Images for the Neo4j Graph Database.
 * [docker-neo4j-cluster](https://github.com/ekino/docker-neo4j-cluster) ⚠️ Archived - Up & Running Neo4j cluster in no time.
 
 # Full-text search
@@ -146,7 +146,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go) ⭐ 5
 
 # Extensions
 
-* [Spatial](https://github.com/neo4j-contrib/spatial) ⭐ 826 | 🐛 80 | 🌐 Java | 📅 2026-02-28 - Neo4j Spatial is a library of utilities for Neo4j that faciliates the enabling of spatial operations on data.
+* [Spatial](https://github.com/neo4j-contrib/spatial) ⭐ 825 | 🐛 80 | 🌐 Java | 📅 2026-02-28 - Neo4j Spatial is a library of utilities for Neo4j that faciliates the enabling of spatial operations on data.
 * [Graphify](https://github.com/Graphify/graphify) ⚠️ Archived - Graphify is a Neo4j unmanaged extension used for document and text classification using graph-based hierarchical pattern recognition.
 * [GraphAware Neo4j Recommendation Engine](https://github.com/graphaware/neo4j-reco) ⚠️ Archived - Neo4j-based recommendation engine module with real-time and pre-computed recommendations.
 * [GraphAware Neo4j TimeTree](https://github.com/graphaware/neo4j-timetree) ⚠️ Archived - Java and REST APIs for working with time-representing tree in Neo4j.
@@ -160,13 +160,13 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go) ⭐ 5
 
 # Stored Procedures
 
-* [Apoc : Awesome Procedures on Cypher](https://github.com/neo4j-contrib/neo4j-apoc-procedures) ⭐ 1,869 | 🐛 40 | 🌐 Java | 📅 2026-09-25 - Collection of useful procedures for Neo4j 3.x
+* [Apoc : Awesome Procedures on Cypher](https://github.com/neo4j-contrib/neo4j-apoc-procedures) ⭐ 1,869 | 🐛 41 | 🌐 Java | 📅 2026-09-25 - Collection of useful procedures for Neo4j 3.x
 * [Graphgen](https://github.com/graphaware/neo4j-graphgen-procedure) ⭐ 9 | 🐛 0 | 🌐 Java | 📅 2016-06-29 - Neo4j procedure for generating test data easily with Cypher
 
 # Development
 
 * [blueprints](https://github.com/tinkerpop/blueprints) ⭐ 1,359 | 🐛 19 | 🌐 Java | 📅 2021-08-17 - Blueprints is a collection of interfaces, implementations, ouplementations, and test suites for the property graph data model. Blueprints is analogous to the JDBC, but for graph databases.
-* [structr](https://github.com/structr/structr) ⭐ 830 | 🐛 5 | 🌐 Java | 📅 2026-09-10 - Graph Application Platform based on Neo4j.
+* [structr](https://github.com/structr/structr) ⭐ 830 | 🐛 5 | 🌐 Java | 📅 2026-09-29 - Graph Application Platform based on Neo4j.
 * [GraphAware Neo4j Framework](https://github.com/graphaware/neo4j-framework) ⚠️ Archived- GraphAware Framework speeds up development with Neo4j by providing a platform for building useful generic as well as domain-specific functionality, analytical capabilities, (iterative) graph algorithms, etc.
 * [cypher-dsl](https://github.com/neo4j-contrib/cypher-dsl) ⭐ 227 | 🐛 8 | 🌐 Java | 📅 2026-09-28 - A Java DSL for the Cypher Query Language and an optional Query DSL mode.
 * [Reco4PHP](https://github.com/graphaware/reco4php) ⭐ 129 | 🐛 3 | 🌐 PHP | 📅 2022-10-23 - Neo4j based Recommendation Engine Framework for PHP.
@@ -185,7 +185,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go) ⭐ 5
 
 # Visualization
 
-* [Gephi](https://github.com/gephi/gephi) ⭐ 6,658 | 🐛 444 | 🌐 Java | 📅 2026-09-27 - Gephi is an award-winning open-source platform for visualizing and manipulating large graphs.
+* [Gephi](https://github.com/gephi/gephi) ⭐ 6,657 | 🐛 444 | 🌐 Java | 📅 2026-09-27 - Gephi is an award-winning open-source platform for visualizing and manipulating large graphs.
 * [neoclipse](https://github.com/neo4j-contrib/neoclipse) ⚠️ Archived - Neoclipse is a tool to view, edit and explore Neo4j databases.
 * [Linkurious](https://linkurio.us/) - Linkurious helps search and visualize your graph data through a simple web-based interface.
 * [yFiles for HTML](https://www.yworks.com/products/yfiles-for-html) - yFiles is a commercial generic graph visualization programming library that comes with [a demo to visualize your neo4j databases in JavaScript](http://live.yworks.com/demos/#neo4j). It's also the basis for the [free neo4j Graph Explorer app](https://www.yworks.com/neo4j-explorer/).
@@ -220,4 +220,4 @@ To the extent possible under law, [Neueda R\&D](https://github.com/Neueda) has w
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
