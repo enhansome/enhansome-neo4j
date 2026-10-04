@@ -1,6 +1,6 @@
 # Awesome Neo4j with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,800 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 514,247 | 🐛 107 | 📅 2026-09-02
 [![Build Status](https://api.travis-ci.org/neueda/awesome-neo4j.svg?branch=master)](https://travis-ci.org/neueda/awesome-neo4j)
 
 A curated list of awesome [Neo4j](https://neo4j.com/) resources.\
@@ -166,7 +166,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go) ⭐ 5
 # Development
 
 * [blueprints](https://github.com/tinkerpop/blueprints) ⭐ 1,358 | 🐛 19 | 🌐 Java | 📅 2021-08-17 - Blueprints is a collection of interfaces, implementations, ouplementations, and test suites for the property graph data model. Blueprints is analogous to the JDBC, but for graph databases.
-* [structr](https://github.com/structr/structr) ⭐ 828 | 🐛 5 | 🌐 Java | 📅 2026-09-29 - Graph Application Platform based on Neo4j.
+* [structr](https://github.com/structr/structr) ⭐ 828 | 🐛 5 | 🌐 Java | 📅 2026-10-03 - Graph Application Platform based on Neo4j.
 * [GraphAware Neo4j Framework](https://github.com/graphaware/neo4j-framework) ⚠️ Archived- GraphAware Framework speeds up development with Neo4j by providing a platform for building useful generic as well as domain-specific functionality, analytical capabilities, (iterative) graph algorithms, etc.
 * [cypher-dsl](https://github.com/neo4j-contrib/cypher-dsl) ⭐ 227 | 🐛 8 | 🌐 Java | 📅 2026-09-28 - A Java DSL for the Cypher Query Language and an optional Query DSL mode.
 * [Reco4PHP](https://github.com/graphaware/reco4php) ⭐ 129 | 🐛 3 | 🌐 PHP | 📅 2022-10-23 - Neo4j based Recommendation Engine Framework for PHP.
@@ -185,7 +185,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go) ⭐ 5
 
 # Visualization
 
-* [Gephi](https://github.com/gephi/gephi) ⭐ 6,657 | 🐛 445 | 🌐 Java | 📅 2026-10-02 - Gephi is an award-winning open-source platform for visualizing and manipulating large graphs.
+* [Gephi](https://github.com/gephi/gephi) ⭐ 6,658 | 🐛 445 | 🌐 Java | 📅 2026-10-02 - Gephi is an award-winning open-source platform for visualizing and manipulating large graphs.
 * [neoclipse](https://github.com/neo4j-contrib/neoclipse) ⚠️ Archived - Neoclipse is a tool to view, edit and explore Neo4j databases.
 * [Linkurious](https://linkurio.us/) - Linkurious helps search and visualize your graph data through a simple web-based interface.
 * [yFiles for HTML](https://www.yworks.com/products/yfiles-for-html) - yFiles is a commercial generic graph visualization programming library that comes with [a demo to visualize your neo4j databases in JavaScript](http://live.yworks.com/demos/#neo4j). It's also the basis for the [free neo4j Graph Explorer app](https://www.yworks.com/neo4j-explorer/).
@@ -220,4 +220,4 @@ To the extent possible under law, [Neueda R\&D](https://github.com/Neueda) has w
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
