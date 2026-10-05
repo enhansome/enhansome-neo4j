@@ -1,6 +1,6 @@
 # Awesome Neo4j with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 514,247 | 🐛 107 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 514,755 | 🐛 107 | 📅 2026-09-02
 [![Build Status](https://api.travis-ci.org/neueda/awesome-neo4j.svg?branch=master)](https://travis-ci.org/neueda/awesome-neo4j)
 
 A curated list of awesome [Neo4j](https://neo4j.com/) resources.\
@@ -80,7 +80,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go) ⭐ 5
 
 * [spring-data-neo4j](https://github.com/spring-projects/spring-data-neo4j) ⭐ 867 | 🐛 36 | 🌐 Java | 📅 2026-09-28 - Provides support to increase developer productivity in Java when using the neo4j graph database.
 * [neo4j-ogm](https://github.com/neo4j/neo4j-ogm) ⭐ 362 | 🐛 13 | 🌐 Java | 📅 2026-09-28 - Object-Graph Mapping Library for Neo4j.
-* [neo4j-jdbc](https://github.com/neo4j-contrib/neo4j-jdbc) ⭐ 155 | 🐛 16 | 🌐 Java | 📅 2026-09-30 - Neo4j JDBC driver.
+* [neo4j-jdbc](https://github.com/neo4j-contrib/neo4j-jdbc) ⭐ 155 | 🐛 26 | 🌐 Java | 📅 2026-10-05 - Neo4j JDBC driver.
 * [jcypher](https://github.com/Wolfgang-Schuetzelhofer/jcypher) ⭐ 85 | 🐛 13 | 🌐 Java | 📅 2020-10-13 - Java access to Neo4J graph databases at multiple levels of abstraction.
 
 ### Ruby
@@ -168,7 +168,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go) ⭐ 5
 * [blueprints](https://github.com/tinkerpop/blueprints) ⭐ 1,358 | 🐛 19 | 🌐 Java | 📅 2021-08-17 - Blueprints is a collection of interfaces, implementations, ouplementations, and test suites for the property graph data model. Blueprints is analogous to the JDBC, but for graph databases.
 * [structr](https://github.com/structr/structr) ⭐ 828 | 🐛 5 | 🌐 Java | 📅 2026-10-03 - Graph Application Platform based on Neo4j.
 * [GraphAware Neo4j Framework](https://github.com/graphaware/neo4j-framework) ⚠️ Archived- GraphAware Framework speeds up development with Neo4j by providing a platform for building useful generic as well as domain-specific functionality, analytical capabilities, (iterative) graph algorithms, etc.
-* [cypher-dsl](https://github.com/neo4j-contrib/cypher-dsl) ⭐ 227 | 🐛 8 | 🌐 Java | 📅 2026-09-28 - A Java DSL for the Cypher Query Language and an optional Query DSL mode.
+* [cypher-dsl](https://github.com/neo4j-contrib/cypher-dsl) ⭐ 227 | 🐛 18 | 🌐 Java | 📅 2026-10-05 - A Java DSL for the Cypher Query Language and an optional Query DSL mode.
 * [Reco4PHP](https://github.com/graphaware/reco4php) ⭐ 129 | 🐛 3 | 🌐 PHP | 📅 2022-10-23 - Neo4j based Recommendation Engine Framework for PHP.
 * [Liquigraph](https://github.com/liquigraph/liquigraph) ⚠️ Archived - Database migrations management tool, based on how Liquibase works.
 * [Maven repositories](https://m2.neo4j.org/index.html) - Neo4j Maven repositories (releases, snapshots).
@@ -220,4 +220,4 @@ To the extent possible under law, [Neueda R\&D](https://github.com/Neueda) has w
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
