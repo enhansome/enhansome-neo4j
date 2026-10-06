@@ -54,7 +54,7 @@
                 "open_issues": 26,
                 "owner": "neo4j",
                 "repo": "neo4j-javascript-driver",
-                "stars": 916,
+                "stars": 917,
                 "topics": [
                   "bolt",
                   "database",
@@ -106,7 +106,7 @@
                 "id": 53063706,
                 "language": "Scala",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-05T10:32:07Z",
+                "last_commit": "2026-10-06T07:39:24Z",
                 "open_issues": 9,
                 "owner": "neo4j",
                 "repo": "neo4j-spark-connector",
@@ -138,7 +138,7 @@
                 "open_issues": 4,
                 "owner": "florinpatrascu",
                 "repo": "bolt_sips",
-                "stars": 267,
+                "stars": 268,
                 "topics": [
                   "bolt",
                   "driver",
@@ -1051,7 +1051,7 @@
             "open_issues": 80,
             "owner": "neo4j-contrib",
             "repo": "spatial",
-            "stars": 825,
+            "stars": 826,
             "topics": [
               "geoserver",
               "geotools",
@@ -1394,7 +1394,7 @@
             "id": 1317787,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-03T12:27:43Z",
+            "last_commit": "2026-10-06T10:01:03Z",
             "open_issues": 5,
             "owner": "structr",
             "repo": "structr",
@@ -1654,7 +1654,7 @@
             "open_issues": 445,
             "owner": "gephi",
             "repo": "gephi",
-            "stars": 6657,
+            "stars": 6658,
             "topics": [
               "graph",
               "graph-analytics",
@@ -1774,7 +1774,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T05:29:30.921Z",
+    "last_updated": "2026-10-06T11:05:11.977Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Neo4j resources.",
