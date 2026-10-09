@@ -18,7 +18,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-05T15:38:12Z",
-                "open_issues": 9,
+                "open_issues": 10,
                 "owner": "neo4j",
                 "repo": "neo4j-python-driver",
                 "stars": 1050,
@@ -50,8 +50,8 @@
                 "id": 39573021,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-07T14:49:35Z",
-                "open_issues": 26,
+                "last_commit": "2026-10-08T14:04:35Z",
+                "open_issues": 25,
                 "owner": "neo4j",
                 "repo": "neo4j-javascript-driver",
                 "stars": 917,
@@ -167,7 +167,7 @@
                 "open_issues": 2,
                 "owner": "neo4j",
                 "repo": "neo4j-dotnet-driver",
-                "stars": 247,
+                "stars": 246,
                 "topics": [
                   "binary-protocol",
                   "csharp",
@@ -671,7 +671,7 @@
                     "open_issues": 87,
                     "owner": "DotNet4Neo4j",
                     "repo": "Neo4jClient",
-                    "stars": 428,
+                    "stars": 427,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:15:12.794Z"
@@ -692,7 +692,7 @@
                     "open_issues": 12,
                     "owner": "jmcvetta",
                     "repo": "neoism",
-                    "stars": 388,
+                    "stars": 387,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:15:12.794Z"
@@ -1394,7 +1394,7 @@
             "id": 1317787,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-07T09:44:13Z",
+            "last_commit": "2026-10-08T14:17:49Z",
             "open_issues": 5,
             "owner": "structr",
             "repo": "structr",
@@ -1654,7 +1654,7 @@
             "open_issues": 445,
             "owner": "gephi",
             "repo": "gephi",
-            "stars": 6659,
+            "stars": 6660,
             "topics": [
               "graph",
               "graph-analytics",
@@ -1774,7 +1774,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T05:09:29.033Z",
+    "last_updated": "2026-10-09T05:12:32.256Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Neo4j resources.",
