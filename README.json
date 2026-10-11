@@ -400,7 +400,7 @@
                     "open_issues": 242,
                     "owner": "neo4jrb",
                     "repo": "activegraph",
-                    "stars": 1406,
+                    "stars": 1408,
                     "topics": [
                       "graph-database",
                       "neo4j",
@@ -797,7 +797,7 @@
             "open_issues": 67,
             "owner": "neo4j",
             "repo": "docker-neo4j",
-            "stars": 383,
+            "stars": 382,
             "topics": []
           },
           "first_seen": "2026-08-28T10:15:12.794Z"
@@ -1650,8 +1650,8 @@
             "id": 2624521,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-02T19:53:53Z",
-            "open_issues": 445,
+            "last_commit": "2026-10-10T18:25:06Z",
+            "open_issues": 443,
             "owner": "gephi",
             "repo": "gephi",
             "stars": 6662,
@@ -1774,7 +1774,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T04:57:30.380Z",
+    "last_updated": "2026-10-11T04:45:14.506Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Neo4j resources.",
