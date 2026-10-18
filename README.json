@@ -462,7 +462,7 @@
                     "open_issues": 52,
                     "owner": "neo4j-contrib",
                     "repo": "neomodel",
-                    "stars": 1091,
+                    "stars": 1090,
                     "topics": [
                       "neo4j",
                       "ogm",
@@ -794,10 +794,10 @@
             "language": "Shell",
             "license": "Apache-2.0",
             "last_commit": "2026-10-13T10:11:51Z",
-            "open_issues": 67,
+            "open_issues": 69,
             "owner": "neo4j",
             "repo": "docker-neo4j",
-            "stars": 382,
+            "stars": 383,
             "topics": []
           },
           "first_seen": "2026-08-28T10:15:12.794Z"
@@ -1377,7 +1377,7 @@
             "open_issues": 19,
             "owner": "tinkerpop",
             "repo": "blueprints",
-            "stars": 1358,
+            "stars": 1359,
             "topics": []
           },
           "first_seen": "2026-08-28T10:15:12.794Z"
@@ -1650,11 +1650,11 @@
             "id": 2624521,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-12T08:36:43Z",
-            "open_issues": 442,
+            "last_commit": "2026-10-17T08:35:57Z",
+            "open_issues": 441,
             "owner": "gephi",
             "repo": "gephi",
-            "stars": 6674,
+            "stars": 6678,
             "topics": [
               "graph",
               "graph-analytics",
@@ -1774,7 +1774,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T03:32:07.981Z",
+    "last_updated": "2026-10-18T03:39:03.699Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Neo4j resources.",
