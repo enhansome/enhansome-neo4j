@@ -1,6 +1,6 @@
 # Awesome Neo4j with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 524,233 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 524,733 | 🐛 105 | 📅 2026-09-02
 [![Build Status](https://api.travis-ci.org/neueda/awesome-neo4j.svg?branch=master)](https://travis-ci.org/neueda/awesome-neo4j)
 
 A curated list of awesome [Neo4j](https://neo4j.com/) resources.\
@@ -146,7 +146,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go) ⭐ 5
 
 # Extensions
 
-* [Spatial](https://github.com/neo4j-contrib/spatial) ⭐ 827 | 🐛 80 | 🌐 Java | 📅 2026-02-28 - Neo4j Spatial is a library of utilities for Neo4j that faciliates the enabling of spatial operations on data.
+* [Spatial](https://github.com/neo4j-contrib/spatial) ⭐ 828 | 🐛 80 | 🌐 Java | 📅 2026-02-28 - Neo4j Spatial is a library of utilities for Neo4j that faciliates the enabling of spatial operations on data.
 * [Graphify](https://github.com/Graphify/graphify) ⚠️ Archived - Graphify is a Neo4j unmanaged extension used for document and text classification using graph-based hierarchical pattern recognition.
 * [GraphAware Neo4j Recommendation Engine](https://github.com/graphaware/neo4j-reco) ⚠️ Archived - Neo4j-based recommendation engine module with real-time and pre-computed recommendations.
 * [GraphAware Neo4j TimeTree](https://github.com/graphaware/neo4j-timetree) ⚠️ Archived - Java and REST APIs for working with time-representing tree in Neo4j.
@@ -185,7 +185,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go) ⭐ 5
 
 # Visualization
 
-* [Gephi](https://github.com/gephi/gephi) ⭐ 6,688 | 🐛 442 | 🌐 Java | 📅 2026-10-24 - Gephi is an award-winning open-source platform for visualizing and manipulating large graphs.
+* [Gephi](https://github.com/gephi/gephi) ⭐ 6,689 | 🐛 440 | 🌐 Java | 📅 2026-10-25 - Gephi is an award-winning open-source platform for visualizing and manipulating large graphs.
 * [neoclipse](https://github.com/neo4j-contrib/neoclipse) ⚠️ Archived - Neoclipse is a tool to view, edit and explore Neo4j databases.
 * [Linkurious](https://linkurio.us/) - Linkurious helps search and visualize your graph data through a simple web-based interface.
 * [yFiles for HTML](https://www.yworks.com/products/yfiles-for-html) - yFiles is a commercial generic graph visualization programming library that comes with [a demo to visualize your neo4j databases in JavaScript](http://live.yworks.com/demos/#neo4j). It's also the basis for the [free neo4j Graph Explorer app](https://www.yworks.com/neo4j-explorer/).
@@ -220,4 +220,4 @@ To the extent possible under law, [Neueda R\&D](https://github.com/Neueda) has w
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._

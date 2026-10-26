@@ -1051,7 +1051,7 @@
             "open_issues": 80,
             "owner": "neo4j-contrib",
             "repo": "spatial",
-            "stars": 827,
+            "stars": 828,
             "topics": [
               "geoserver",
               "geotools",
@@ -1650,11 +1650,11 @@
             "id": 2624521,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-24T20:30:41Z",
-            "open_issues": 442,
+            "last_commit": "2026-10-25T20:52:13Z",
+            "open_issues": 440,
             "owner": "gephi",
             "repo": "gephi",
-            "stars": 6688,
+            "stars": 6689,
             "topics": [
               "graph",
               "graph-analytics",
@@ -1774,7 +1774,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T03:46:59.538Z",
+    "last_updated": "2026-10-26T03:50:43.208Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Neo4j resources.",
