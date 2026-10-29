@@ -17,8 +17,8 @@
                 "id": 35100117,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-27T16:14:34Z",
-                "open_issues": 12,
+                "last_commit": "2026-10-28T16:52:32Z",
+                "open_issues": 13,
                 "owner": "neo4j",
                 "repo": "neo4j-python-driver",
                 "stars": 1050,
@@ -50,8 +50,8 @@
                 "id": 39573021,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-27T14:16:03Z",
-                "open_issues": 27,
+                "last_commit": "2026-10-28T11:45:41Z",
+                "open_issues": 25,
                 "owner": "neo4j",
                 "repo": "neo4j-javascript-driver",
                 "stars": 917,
@@ -106,8 +106,8 @@
                 "id": 53063706,
                 "language": "Scala",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-27T16:12:21Z",
-                "open_issues": 5,
+                "last_commit": "2026-10-28T16:11:58Z",
+                "open_issues": 6,
                 "owner": "neo4j",
                 "repo": "neo4j-spark-connector",
                 "stars": 324,
@@ -167,7 +167,7 @@
                 "open_issues": 2,
                 "owner": "neo4j",
                 "repo": "neo4j-dotnet-driver",
-                "stars": 246,
+                "stars": 245,
                 "topics": [
                   "binary-protocol",
                   "csharp",
@@ -396,8 +396,8 @@
                     "id": 20724,
                     "language": "Ruby",
                     "license": "MIT",
-                    "last_commit": "2026-08-18T01:18:55Z",
-                    "open_issues": 242,
+                    "last_commit": "2026-10-28T19:18:56Z",
+                    "open_issues": 244,
                     "owner": "neo4jrb",
                     "repo": "activegraph",
                     "stars": 1407,
@@ -515,7 +515,7 @@
                     "open_issues": 19,
                     "owner": "Vinelab",
                     "repo": "NeoEloquent",
-                    "stars": 657,
+                    "stars": 656,
                     "topics": [
                       "eloquent",
                       "laravel",
@@ -561,7 +561,7 @@
                     "open_issues": 47,
                     "owner": "graphaware",
                     "repo": "neo4j-php-client",
-                    "stars": 285,
+                    "stars": 284,
                     "topics": [
                       "bolt",
                       "graph",
@@ -588,7 +588,7 @@
                     "open_issues": 44,
                     "owner": "graphaware",
                     "repo": "neo4j-php-ogm",
-                    "stars": 153,
+                    "stars": 152,
                     "topics": [
                       "doctrine",
                       "graph",
@@ -671,7 +671,7 @@
                     "open_issues": 87,
                     "owner": "DotNet4Neo4j",
                     "repo": "Neo4jClient",
-                    "stars": 427,
+                    "stars": 426,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:15:12.794Z"
@@ -1084,7 +1084,7 @@
             "open_issues": 10,
             "owner": "kbastani",
             "repo": "graphify",
-            "stars": 450,
+            "stars": 451,
             "topics": []
           },
           "first_seen": "2026-08-28T10:15:12.794Z"
@@ -1318,7 +1318,7 @@
             "id": 52509220,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T07:12:21Z",
+            "last_commit": "2026-10-28T14:09:12Z",
             "open_issues": 44,
             "owner": "neo4j-contrib",
             "repo": "neo4j-apoc-procedures",
@@ -1551,7 +1551,7 @@
             "open_issues": 54,
             "owner": "neueda",
             "repo": "jetbrains-plugin-graph-database-support",
-            "stars": 227,
+            "stars": 226,
             "topics": [
               "cypher",
               "graph-database-support",
@@ -1654,7 +1654,7 @@
             "open_issues": 441,
             "owner": "gephi",
             "repo": "gephi",
-            "stars": 6692,
+            "stars": 6693,
             "topics": [
               "graph",
               "graph-analytics",
@@ -1774,7 +1774,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T04:42:24.728Z",
+    "last_updated": "2026-10-29T04:54:28.106Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Neo4j resources.",
