@@ -21,7 +21,7 @@
                 "open_issues": 9,
                 "owner": "neo4j",
                 "repo": "neo4j-python-driver",
-                "stars": 1050,
+                "stars": 1051,
                 "topics": [
                   "binary-protocol",
                   "cypher",
@@ -396,8 +396,8 @@
                     "id": 20724,
                     "language": "Ruby",
                     "license": "MIT",
-                    "last_commit": "2026-10-29T14:03:01Z",
-                    "open_issues": 241,
+                    "last_commit": "2026-10-31T15:15:39Z",
+                    "open_issues": 242,
                     "owner": "neo4jrb",
                     "repo": "activegraph",
                     "stars": 1408,
@@ -462,7 +462,7 @@
                     "open_issues": 51,
                     "owner": "neo4j-contrib",
                     "repo": "neomodel",
-                    "stars": 1091,
+                    "stars": 1092,
                     "topics": [
                       "neo4j",
                       "ogm",
@@ -1322,7 +1322,7 @@
             "open_issues": 45,
             "owner": "neo4j-contrib",
             "repo": "neo4j-apoc-procedures",
-            "stars": 1871,
+            "stars": 1872,
             "topics": [
               "graph-algorithms",
               "graph-database",
@@ -1377,7 +1377,7 @@
             "open_issues": 19,
             "owner": "tinkerpop",
             "repo": "blueprints",
-            "stars": 1359,
+            "stars": 1358,
             "topics": []
           },
           "first_seen": "2026-08-28T10:15:12.794Z"
@@ -1650,11 +1650,11 @@
             "id": 2624521,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-30T20:36:48Z",
-            "open_issues": 439,
+            "last_commit": "2026-10-31T08:01:34Z",
+            "open_issues": 442,
             "owner": "gephi",
             "repo": "gephi",
-            "stars": 6695,
+            "stars": 6693,
             "topics": [
               "graph",
               "graph-analytics",
@@ -1774,7 +1774,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T04:40:06.613Z",
+    "last_updated": "2026-11-01T04:59:37.850Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Neo4j resources.",
