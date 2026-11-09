@@ -337,8 +337,8 @@
                     "id": 59779262,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-02T08:17:16Z",
-                    "open_issues": 16,
+                    "last_commit": "2026-11-09T05:03:34Z",
+                    "open_issues": 22,
                     "owner": "neo4j",
                     "repo": "neo4j-jdbc",
                     "stars": 155,
@@ -1249,7 +1249,7 @@
             "open_issues": 1,
             "owner": "graphaware",
             "repo": "neo4j-resttest",
-            "stars": 13,
+            "stars": 15,
             "topics": [
               "java",
               "neo4j",
@@ -1650,11 +1650,11 @@
             "id": 2624521,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-07T15:03:57Z",
-            "open_issues": 442,
+            "last_commit": "2026-11-08T10:10:30Z",
+            "open_issues": 441,
             "owner": "gephi",
             "repo": "gephi",
-            "stars": 6695,
+            "stars": 6696,
             "topics": [
               "graph",
               "graph-analytics",
@@ -1774,7 +1774,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T05:05:39.853Z",
+    "last_updated": "2026-11-09T05:16:16.447Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Neo4j resources.",
