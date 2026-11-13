@@ -78,8 +78,8 @@
                 "id": 34007506,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-09T12:15:25Z",
-                "open_issues": 1,
+                "last_commit": "2026-11-12T12:46:24Z",
+                "open_issues": 2,
                 "owner": "neo4j",
                 "repo": "neo4j-java-driver",
                 "stars": 348,
@@ -106,8 +106,8 @@
                 "id": 53063706,
                 "language": "Scala",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-11T15:39:49Z",
-                "open_issues": 11,
+                "last_commit": "2026-11-12T15:55:22Z",
+                "open_issues": 14,
                 "owner": "neo4j",
                 "repo": "neo4j-spark-connector",
                 "stars": 324,
@@ -515,7 +515,7 @@
                     "open_issues": 19,
                     "owner": "Vinelab",
                     "repo": "NeoEloquent",
-                    "stars": 656,
+                    "stars": 654,
                     "topics": [
                       "eloquent",
                       "laravel",
@@ -1651,10 +1651,10 @@
             "language": "Java",
             "license": "GPL-3.0",
             "last_commit": "2026-11-08T10:10:30Z",
-            "open_issues": 441,
+            "open_issues": 442,
             "owner": "gephi",
             "repo": "gephi",
-            "stars": 6700,
+            "stars": 6703,
             "topics": [
               "graph",
               "graph-analytics",
@@ -1774,7 +1774,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T06:21:08.223Z",
+    "last_updated": "2026-11-13T05:41:15.454Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Neo4j resources.",

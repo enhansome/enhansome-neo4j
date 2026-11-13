@@ -1,6 +1,6 @@
 # Awesome Neo4j with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 535,495 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 536,065 | 🐛 103 | 📅 2026-09-02
 [![Build Status](https://api.travis-ci.org/neueda/awesome-neo4j.svg?branch=master)](https://travis-ci.org/neueda/awesome-neo4j)
 
 A curated list of awesome [Neo4j](https://neo4j.com/) resources.\
@@ -66,8 +66,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go) ⭐ 5
 
 * [neo4j-python-driver](https://github.com/neo4j/neo4j-python-driver) ⭐ 1,051 | 🐛 9 | 🌐 Python | 📅 2026-10-29 - Python driver for Neo4j binary protocol.
 * [neo4j-javascript-driver](https://github.com/neo4j/neo4j-javascript-driver) ⭐ 918 | 🐛 28 | 🌐 JavaScript | 📅 2026-11-11 - JavaScript driver for Neo4j binary protocol.
-* [neo4j-java-driver](https://github.com/neo4j/neo4j-java-driver) ⭐ 348 | 🐛 1 | 🌐 Java | 📅 2026-11-09 - Java driver for Neo4j binary protocol.
-* [neo4j-spark-connector](https://github.com/neo4j-contrib/neo4j-spark-connector) ⭐ 324 | 🐛 11 | 🌐 Scala | 📅 2026-11-11 - Neo4j-Spark-Connector based on Neo4j 3.0's Bolt protocol
+* [neo4j-java-driver](https://github.com/neo4j/neo4j-java-driver) ⭐ 348 | 🐛 2 | 🌐 Java | 📅 2026-11-12 - Java driver for Neo4j binary protocol.
+* [neo4j-spark-connector](https://github.com/neo4j-contrib/neo4j-spark-connector) ⭐ 324 | 🐛 14 | 🌐 Scala | 📅 2026-11-12 - Neo4j-Spark-Connector based on Neo4j 3.0's Bolt protocol
 * [neo4j-elixir-wrapper](https://github.com/florinpatrascu/bolt_sips) ⭐ 268 | 🐛 4 | 🌐 Elixir | 📅 2023-11-18 - Neo4j driver for Elixir, wrapped around the Bolt protocol. Fork of the Boltex.
 * [neo4j-dotnet-driver](https://github.com/neo4j/neo4j-dotnet-driver) ⭐ 246 | 🐛 1 | 🌐 C# | 📅 2026-11-04 - .Net driver for Neo4j (Bolt).
 * [libneo4j-client](https://github.com/cleishm/libneo4j-client) ⭐ 160 | 🐛 20 | 🌐 C | 📅 2023-05-08 - libneo4j-client is a client library written in C for Neo4j. It is not intended as a complete driver, but rather as a foundation on which basic tools and drivers for various languages may be built. libneo4j-client takes care of all the detail of establishing a session with a Neo4j server, sending statements for evaluation, and retrieving results.
@@ -95,7 +95,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go) ⭐ 5
 
 ### PHP
 
-* [NeoEloquent](https://github.com/Vinelab/NeoEloquent) ⭐ 656 | 🐛 19 | 🌐 PHP | 📅 2025-02-11 - A Neo4j ORM - Based on Eloquent.
+* [NeoEloquent](https://github.com/Vinelab/NeoEloquent) ⭐ 654 | 🐛 19 | 🌐 PHP | 📅 2025-02-11 - A Neo4j ORM - Based on Eloquent.
 * [neo4jphp](https://github.com/jadell/neo4jphp) ⭐ 534 | 🐛 37 | 🌐 PHP | 📅 2017-09-25 - PHP wrapper of the Neo4j REST interface.
 * [neo4j-php-client](https://github.com/graphaware/neo4j-php-client/tree/4.0) ⚠️ Archived - PHP Client for Neo4j leveraging the Http and Bolt protocols.
 * [Neo4j-PHP-OGM](https://github.com/graphaware/neo4j-php-ogm) ⚠️ Archived - Doctrine style Object Graph Mapper for Neo4j
@@ -185,7 +185,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go) ⭐ 5
 
 # Visualization
 
-* [Gephi](https://github.com/gephi/gephi) ⭐ 6,700 | 🐛 441 | 🌐 Java | 📅 2026-11-08 - Gephi is an award-winning open-source platform for visualizing and manipulating large graphs.
+* [Gephi](https://github.com/gephi/gephi) ⭐ 6,703 | 🐛 442 | 🌐 Java | 📅 2026-11-08 - Gephi is an award-winning open-source platform for visualizing and manipulating large graphs.
 * [neoclipse](https://github.com/neo4j-contrib/neoclipse) ⚠️ Archived - Neoclipse is a tool to view, edit and explore Neo4j databases.
 * [Linkurious](https://linkurio.us/) - Linkurious helps search and visualize your graph data through a simple web-based interface.
 * [yFiles for HTML](https://www.yworks.com/products/yfiles-for-html) - yFiles is a commercial generic graph visualization programming library that comes with [a demo to visualize your neo4j databases in JavaScript](http://live.yworks.com/demos/#neo4j). It's also the basis for the [free neo4j Graph Explorer app](https://www.yworks.com/neo4j-explorer/).
@@ -220,4 +220,4 @@ To the extent possible under law, [Neueda R\&D](https://github.com/Neueda) has w
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
