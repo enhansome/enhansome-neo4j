@@ -21,7 +21,7 @@
                 "open_issues": 9,
                 "owner": "neo4j",
                 "repo": "neo4j-python-driver",
-                "stars": 1051,
+                "stars": 1052,
                 "topics": [
                   "binary-protocol",
                   "cypher",
@@ -337,8 +337,8 @@
                     "id": 59779262,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-10T09:24:16Z",
-                    "open_issues": 22,
+                    "last_commit": "2026-11-16T05:02:53Z",
+                    "open_issues": 26,
                     "owner": "neo4j",
                     "repo": "neo4j-jdbc",
                     "stars": 155,
@@ -397,7 +397,7 @@
                     "language": "Ruby",
                     "license": "MIT",
                     "last_commit": "2026-11-09T17:26:33Z",
-                    "open_issues": 251,
+                    "open_issues": 252,
                     "owner": "neo4jrb",
                     "repo": "activegraph",
                     "stars": 1407,
@@ -1774,7 +1774,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T05:28:54.828Z",
+    "last_updated": "2026-11-16T05:27:28.187Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Neo4j resources.",

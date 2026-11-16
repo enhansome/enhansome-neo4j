@@ -1,6 +1,6 @@
 # Awesome Neo4j with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 537,045 | 🐛 104 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 537,581 | 🐛 104 | 📅 2026-09-02
 [![Build Status](https://api.travis-ci.org/neueda/awesome-neo4j.svg?branch=master)](https://travis-ci.org/neueda/awesome-neo4j)
 
 A curated list of awesome [Neo4j](https://neo4j.com/) resources.\
@@ -64,7 +64,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go) ⭐ 5
 
 ## Bolt
 
-* [neo4j-python-driver](https://github.com/neo4j/neo4j-python-driver) ⭐ 1,051 | 🐛 9 | 🌐 Python | 📅 2026-10-29 - Python driver for Neo4j binary protocol.
+* [neo4j-python-driver](https://github.com/neo4j/neo4j-python-driver) ⭐ 1,052 | 🐛 9 | 🌐 Python | 📅 2026-10-29 - Python driver for Neo4j binary protocol.
 * [neo4j-javascript-driver](https://github.com/neo4j/neo4j-javascript-driver) ⭐ 918 | 🐛 28 | 🌐 JavaScript | 📅 2026-11-13 - JavaScript driver for Neo4j binary protocol.
 * [neo4j-java-driver](https://github.com/neo4j/neo4j-java-driver) ⭐ 348 | 🐛 1 | 🌐 Java | 📅 2026-11-13 - Java driver for Neo4j binary protocol.
 * [neo4j-spark-connector](https://github.com/neo4j-contrib/neo4j-spark-connector) ⭐ 324 | 🐛 11 | 🌐 Scala | 📅 2026-11-13 - Neo4j-Spark-Connector based on Neo4j 3.0's Bolt protocol
@@ -80,12 +80,12 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go) ⭐ 5
 
 * [spring-data-neo4j](https://github.com/spring-projects/spring-data-neo4j) ⭐ 866 | 🐛 37 | 🌐 Java | 📅 2026-11-06 - Provides support to increase developer productivity in Java when using the neo4j graph database.
 * [neo4j-ogm](https://github.com/neo4j/neo4j-ogm) ⭐ 363 | 🐛 13 | 🌐 Java | 📅 2026-11-02 - Object-Graph Mapping Library for Neo4j.
-* [neo4j-jdbc](https://github.com/neo4j-contrib/neo4j-jdbc) ⭐ 155 | 🐛 22 | 🌐 Java | 📅 2026-11-10 - Neo4j JDBC driver.
+* [neo4j-jdbc](https://github.com/neo4j-contrib/neo4j-jdbc) ⭐ 155 | 🐛 26 | 🌐 Java | 📅 2026-11-16 - Neo4j JDBC driver.
 * [jcypher](https://github.com/Wolfgang-Schuetzelhofer/jcypher) ⭐ 85 | 🐛 13 | 🌐 Java | 📅 2020-10-13 - Java access to Neo4J graph databases at multiple levels of abstraction.
 
 ### Ruby
 
-* [neo4jrb](https://github.com/neo4jrb/neo4j) ⭐ 1,407 | 🐛 251 | 🌐 Ruby | 📅 2026-11-09 - An active model wrapper for the Neo4j Graph Database for Ruby.
+* [neo4jrb](https://github.com/neo4jrb/neo4j) ⭐ 1,407 | 🐛 252 | 🌐 Ruby | 📅 2026-11-09 - An active model wrapper for the Neo4j Graph Database for Ruby.
 * [neography](https://github.com/maxdemarzi/neography) ⭐ 602 | 🐛 19 | 🌐 Ruby | 📅 2017-02-27 - A thin Ruby wrapper to the Neo4j Rest API.
 
 ### Python
@@ -220,4 +220,4 @@ To the extent possible under law, [Neueda R\&D](https://github.com/Neueda) has w
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
