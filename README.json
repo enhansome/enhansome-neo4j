@@ -50,7 +50,7 @@
                 "id": 39573021,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-13T12:57:12Z",
+                "last_commit": "2026-11-16T15:12:02Z",
                 "open_issues": 28,
                 "owner": "neo4j",
                 "repo": "neo4j-javascript-driver",
@@ -106,11 +106,11 @@
                 "id": 53063706,
                 "language": "Scala",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-13T17:26:05Z",
-                "open_issues": 11,
+                "last_commit": "2026-11-16T19:08:46Z",
+                "open_issues": 12,
                 "owner": "neo4j",
                 "repo": "neo4j-spark-connector",
-                "stars": 324,
+                "stars": 323,
                 "topics": [
                   "bolt",
                   "cypher",
@@ -284,7 +284,7 @@
                     "open_issues": 37,
                     "owner": "spring-projects",
                     "repo": "spring-data-neo4j",
-                    "stars": 866,
+                    "stars": 865,
                     "topics": [
                       "ddd",
                       "framework",
@@ -462,7 +462,7 @@
                     "open_issues": 51,
                     "owner": "neo4j-contrib",
                     "repo": "neomodel",
-                    "stars": 1092,
+                    "stars": 1093,
                     "topics": [
                       "neo4j",
                       "ogm",
@@ -671,7 +671,7 @@
                     "open_issues": 87,
                     "owner": "DotNet4Neo4j",
                     "repo": "Neo4jClient",
-                    "stars": 426,
+                    "stars": 427,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:15:12.794Z"
@@ -793,11 +793,11 @@
             "id": 34655771,
             "language": "Shell",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-06T10:13:33Z",
-            "open_issues": 68,
+            "last_commit": "2026-11-16T10:47:07Z",
+            "open_issues": 67,
             "owner": "neo4j",
             "repo": "docker-neo4j",
-            "stars": 383,
+            "stars": 384,
             "topics": []
           },
           "first_seen": "2026-08-28T10:15:12.794Z"
@@ -871,7 +871,7 @@
             "open_issues": 31,
             "owner": "neo4j-contrib",
             "repo": "neo4j-elasticsearch",
-            "stars": 214,
+            "stars": 213,
             "topics": []
           },
           "first_seen": "2026-08-28T10:15:12.794Z"
@@ -1045,10 +1045,10 @@
             "description": "Neo4j Spatial is a library of utilities for Neo4j that faciliates the enabling of spatial operations on data. In particular you can add spatial indexes to already located data, and perform spatial operations on the data like searching for data within specified regions or within a specified distance of a point of interest.",
             "homepage": "https://neo4j.com/labs/spatial/",
             "id": 511373,
-            "language": "Scheme",
+            "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-13T17:56:34Z",
-            "open_issues": 77,
+            "last_commit": "2026-11-16T18:39:16Z",
+            "open_issues": 76,
             "owner": "neo4j-contrib",
             "repo": "spatial",
             "stars": 829,
@@ -1105,7 +1105,7 @@
             "open_issues": 6,
             "owner": "graphaware",
             "repo": "neo4j-reco",
-            "stars": 388,
+            "stars": 387,
             "topics": [
               "graphaware-recommendation-engine",
               "java",
@@ -1322,7 +1322,7 @@
             "open_issues": 42,
             "owner": "neo4j-contrib",
             "repo": "neo4j-apoc-procedures",
-            "stars": 1872,
+            "stars": 1871,
             "topics": [
               "graph-algorithms",
               "graph-database",
@@ -1394,7 +1394,7 @@
             "id": 1317787,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-10T17:26:26Z",
+            "last_commit": "2026-11-16T07:53:34Z",
             "open_issues": 0,
             "owner": "structr",
             "repo": "structr",
@@ -1439,7 +1439,7 @@
             "open_issues": 1,
             "owner": "graphaware",
             "repo": "neo4j-framework",
-            "stars": 250,
+            "stars": 249,
             "topics": [
               "java",
               "neo4j",
@@ -1651,10 +1651,10 @@
             "language": "Java",
             "license": "GPL-3.0",
             "last_commit": "2026-11-08T10:10:30Z",
-            "open_issues": 445,
+            "open_issues": 444,
             "owner": "gephi",
             "repo": "gephi",
-            "stars": 6703,
+            "stars": 6702,
             "topics": [
               "graph",
               "graph-analytics",
@@ -1774,7 +1774,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T05:27:28.187Z",
+    "last_updated": "2026-11-17T07:05:53.856Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Neo4j resources.",
