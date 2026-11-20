@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-18T19:13:43Z",
-                "open_issues": 10,
+                "open_issues": 11,
                 "owner": "neo4j",
                 "repo": "neo4j-python-driver",
-                "stars": 1054,
+                "stars": 1053,
                 "topics": [
                   "binary-protocol",
                   "cypher",
@@ -50,11 +50,11 @@
                 "id": 39573021,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-18T16:10:45Z",
+                "last_commit": "2026-11-19T11:09:33Z",
                 "open_issues": 28,
                 "owner": "neo4j",
                 "repo": "neo4j-javascript-driver",
-                "stars": 918,
+                "stars": 917,
                 "topics": [
                   "bolt",
                   "database",
@@ -82,7 +82,7 @@
                 "open_issues": 1,
                 "owner": "neo4j",
                 "repo": "neo4j-java-driver",
-                "stars": 348,
+                "stars": 347,
                 "topics": [
                   "bolt",
                   "database",
@@ -106,8 +106,8 @@
                 "id": 53063706,
                 "language": "Scala",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-18T14:05:47Z",
-                "open_issues": 9,
+                "last_commit": "2026-11-19T16:06:12Z",
+                "open_issues": 7,
                 "owner": "neo4j",
                 "repo": "neo4j-spark-connector",
                 "stars": 323,
@@ -280,11 +280,11 @@
                     "id": 2470730,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-18T10:53:44Z",
+                    "last_commit": "2026-11-19T22:00:30Z",
                     "open_issues": 39,
                     "owner": "spring-projects",
                     "repo": "spring-data-neo4j",
-                    "stars": 865,
+                    "stars": 864,
                     "topics": [
                       "ddd",
                       "framework",
@@ -312,7 +312,7 @@
                     "open_issues": 3,
                     "owner": "neo4j",
                     "repo": "neo4j-ogm",
-                    "stars": 363,
+                    "stars": 362,
                     "topics": [
                       "database",
                       "graph-databases",
@@ -400,7 +400,7 @@
                     "open_issues": 252,
                     "owner": "neo4jrb",
                     "repo": "activegraph",
-                    "stars": 1407,
+                    "stars": 1406,
                     "topics": [
                       "graph-database",
                       "neo4j",
@@ -540,7 +540,7 @@
                     "open_issues": 37,
                     "owner": "jadell",
                     "repo": "neo4jphp",
-                    "stars": 533,
+                    "stars": 532,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:15:12.794Z"
@@ -671,7 +671,7 @@
                     "open_issues": 87,
                     "owner": "DotNet4Neo4j",
                     "repo": "Neo4jClient",
-                    "stars": 427,
+                    "stars": 426,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:15:12.794Z"
@@ -692,7 +692,7 @@
                     "open_issues": 12,
                     "owner": "jmcvetta",
                     "repo": "neoism",
-                    "stars": 388,
+                    "stars": 387,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:15:12.794Z"
@@ -797,7 +797,7 @@
             "open_issues": 67,
             "owner": "neo4j",
             "repo": "docker-neo4j",
-            "stars": 384,
+            "stars": 381,
             "topics": []
           },
           "first_seen": "2026-08-28T10:15:12.794Z"
@@ -1084,7 +1084,7 @@
             "open_issues": 10,
             "owner": "kbastani",
             "repo": "graphify",
-            "stars": 453,
+            "stars": 452,
             "topics": []
           },
           "first_seen": "2026-08-28T10:15:12.794Z"
@@ -1105,7 +1105,7 @@
             "open_issues": 6,
             "owner": "graphaware",
             "repo": "neo4j-reco",
-            "stars": 387,
+            "stars": 386,
             "topics": [
               "graphaware-recommendation-engine",
               "java",
@@ -1318,11 +1318,11 @@
             "id": 52509220,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-09T15:13:14Z",
-            "open_issues": 42,
+            "last_commit": "2026-11-19T15:22:42Z",
+            "open_issues": 40,
             "owner": "neo4j-contrib",
             "repo": "neo4j-apoc-procedures",
-            "stars": 1871,
+            "stars": 1870,
             "topics": [
               "graph-algorithms",
               "graph-database",
@@ -1377,7 +1377,7 @@
             "open_issues": 19,
             "owner": "tinkerpop",
             "repo": "blueprints",
-            "stars": 1357,
+            "stars": 1356,
             "topics": []
           },
           "first_seen": "2026-08-28T10:15:12.794Z"
@@ -1394,11 +1394,11 @@
             "id": 1317787,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-16T07:53:34Z",
+            "last_commit": "2026-11-19T13:33:52Z",
             "open_issues": 0,
             "owner": "structr",
             "repo": "structr",
-            "stars": 830,
+            "stars": 829,
             "topics": [
               "backend",
               "backend-framework",
@@ -1759,7 +1759,7 @@
                 "open_issues": 10,
                 "owner": "jimwebber",
                 "repo": "neo4j-tutorial",
-                "stars": 316,
+                "stars": 314,
                 "topics": []
               },
               "first_seen": "2026-08-28T10:15:12.794Z"
@@ -1774,7 +1774,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T06:31:49.721Z",
+    "last_updated": "2026-11-20T06:18:46.832Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Neo4j resources.",
