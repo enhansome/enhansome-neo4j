@@ -1,6 +1,6 @@
 # Awesome Neo4j with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 540,632 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 541,226 | 🐛 103 | 📅 2026-09-02
 [![Build Status](https://api.travis-ci.org/neueda/awesome-neo4j.svg?branch=master)](https://travis-ci.org/neueda/awesome-neo4j)
 
 A curated list of awesome [Neo4j](https://neo4j.com/) resources.\
@@ -79,7 +79,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go) ⭐ 5
 ### Java
 
 * [spring-data-neo4j](https://github.com/spring-projects/spring-data-neo4j) ⭐ 864 | 🐛 34 | 🌐 Java | 📅 2026-11-20 - Provides support to increase developer productivity in Java when using the neo4j graph database.
-* [neo4j-ogm](https://github.com/neo4j/neo4j-ogm) ⭐ 362 | 🐛 3 | 🌐 Java | 📅 2026-11-18 - Object-Graph Mapping Library for Neo4j.
+* [neo4j-ogm](https://github.com/neo4j/neo4j-ogm) ⭐ 362 | 🐛 13 | 🌐 Java | 📅 2026-11-23 - Object-Graph Mapping Library for Neo4j.
 * [neo4j-jdbc](https://github.com/neo4j-contrib/neo4j-jdbc) ⭐ 155 | 🐛 26 | 🌐 Java | 📅 2026-11-16 - Neo4j JDBC driver.
 * [jcypher](https://github.com/Wolfgang-Schuetzelhofer/jcypher) ⭐ 85 | 🐛 13 | 🌐 Java | 📅 2020-10-13 - Java access to Neo4J graph databases at multiple levels of abstraction.
 
@@ -146,7 +146,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go) ⭐ 5
 
 # Extensions
 
-* [Spatial](https://github.com/neo4j-contrib/spatial) ⭐ 829 | 🐛 24 | 🌐 Java | 📅 2026-11-18 - Neo4j Spatial is a library of utilities for Neo4j that faciliates the enabling of spatial operations on data.
+* [Spatial](https://github.com/neo4j-contrib/spatial) ⭐ 830 | 🐛 24 | 🌐 Java | 📅 2026-11-18 - Neo4j Spatial is a library of utilities for Neo4j that faciliates the enabling of spatial operations on data.
 * [Graphify](https://github.com/Graphify/graphify) ⚠️ Archived - Graphify is a Neo4j unmanaged extension used for document and text classification using graph-based hierarchical pattern recognition.
 * [GraphAware Neo4j Recommendation Engine](https://github.com/graphaware/neo4j-reco) ⚠️ Archived - Neo4j-based recommendation engine module with real-time and pre-computed recommendations.
 * [GraphAware Neo4j TimeTree](https://github.com/graphaware/neo4j-timetree) ⚠️ Archived - Java and REST APIs for working with time-representing tree in Neo4j.
@@ -165,7 +165,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go) ⭐ 5
 
 # Development
 
-* [blueprints](https://github.com/tinkerpop/blueprints) ⭐ 1,356 | 🐛 19 | 🌐 Java | 📅 2021-08-17 - Blueprints is a collection of interfaces, implementations, ouplementations, and test suites for the property graph data model. Blueprints is analogous to the JDBC, but for graph databases.
+* [blueprints](https://github.com/tinkerpop/blueprints) ⭐ 1,357 | 🐛 19 | 🌐 Java | 📅 2021-08-17 - Blueprints is a collection of interfaces, implementations, ouplementations, and test suites for the property graph data model. Blueprints is analogous to the JDBC, but for graph databases.
 * [structr](https://github.com/structr/structr) ⭐ 829 | 🐛 0 | 🌐 Java | 📅 2026-11-19 - Graph Application Platform based on Neo4j.
 * [GraphAware Neo4j Framework](https://github.com/graphaware/neo4j-framework) ⚠️ Archived- GraphAware Framework speeds up development with Neo4j by providing a platform for building useful generic as well as domain-specific functionality, analytical capabilities, (iterative) graph algorithms, etc.
 * [cypher-dsl](https://github.com/neo4j-contrib/cypher-dsl) ⭐ 227 | 🐛 18 | 🌐 Java | 📅 2026-11-11 - A Java DSL for the Cypher Query Language and an optional Query DSL mode.
@@ -220,4 +220,4 @@ To the extent possible under law, [Neueda R\&D](https://github.com/Neueda) has w
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._

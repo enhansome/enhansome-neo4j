@@ -308,8 +308,8 @@
                     "id": 24224646,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-18T14:45:08Z",
-                    "open_issues": 3,
+                    "last_commit": "2026-11-23T04:03:36Z",
+                    "open_issues": 13,
                     "owner": "neo4j",
                     "repo": "neo4j-ogm",
                     "stars": 362,
@@ -1051,7 +1051,7 @@
             "open_issues": 24,
             "owner": "neo4j-contrib",
             "repo": "spatial",
-            "stars": 829,
+            "stars": 830,
             "topics": [
               "geoserver",
               "geotools",
@@ -1377,7 +1377,7 @@
             "open_issues": 19,
             "owner": "tinkerpop",
             "repo": "blueprints",
-            "stars": 1356,
+            "stars": 1357,
             "topics": []
           },
           "first_seen": "2026-08-28T10:15:12.794Z"
@@ -1774,7 +1774,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T05:43:19.745Z",
+    "last_updated": "2026-11-23T06:28:39.941Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Neo4j resources.",
