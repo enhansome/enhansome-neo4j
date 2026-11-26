@@ -106,8 +106,8 @@
                 "id": 53063706,
                 "language": "Scala",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-24T11:28:00Z",
-                "open_issues": 6,
+                "last_commit": "2026-11-25T20:28:54Z",
+                "open_issues": 7,
                 "owner": "neo4j",
                 "repo": "neo4j-spark-connector",
                 "stars": 323,
@@ -280,7 +280,7 @@
                     "id": 2470730,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-24T12:52:51Z",
+                    "last_commit": "2026-11-25T14:12:55Z",
                     "open_issues": 34,
                     "owner": "spring-projects",
                     "repo": "spring-data-neo4j",
@@ -1654,7 +1654,7 @@
             "open_issues": 443,
             "owner": "gephi",
             "repo": "gephi",
-            "stars": 6705,
+            "stars": 6709,
             "topics": [
               "graph",
               "graph-analytics",
@@ -1682,7 +1682,7 @@
             "open_issues": 58,
             "owner": "neo4j-contrib",
             "repo": "neoclipse",
-            "stars": 222,
+            "stars": 223,
             "topics": []
           },
           "first_seen": "2026-08-28T10:15:12.794Z"
@@ -1774,7 +1774,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T07:36:37.455Z",
+    "last_updated": "2026-11-26T07:25:54.383Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Neo4j resources.",
